@@ -47,7 +47,7 @@ def get_message(country):
     # return selected item to the user
     numberOfCases = ''
     deaths = ''
-    if(pycountry.countries.get(name=country)):
+    if pycountry.countries.get(name=country):
         numberOfCases, deaths = casesDataSet.numberOfCasesInCountry(country)
     random_message = random.choice(sample_responses)
     random_message += ' cases {} and deaths {}'.format(numberOfCases, deaths)
