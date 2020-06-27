@@ -2,7 +2,8 @@ import random
 import os
 from flask import Flask, request
 from pymessenger.bot import Bot
-
+import casesDataSet
+import pycountry
 app = Flask(__name__)
 
 VERIFY_TOKEN = 'COVID_CHATS'
@@ -24,7 +25,7 @@ def receive_message():
                 if message.get('message'):
                     recipient_id = message['sender']['id']
                     if message['message'].get('text'):
-                        response_sent_text = get_message()
+                        response_sent_text = get_message(message['message'].get('text'))
                         send_message(recipient_id, response_sent_text)
                         # in case of gif or text
                         if message['message'].get('attachments'):
@@ -40,11 +41,18 @@ def verify_token(token_sent):
     return "Invalid argument"
 
 
-def get_message():
+def get_message(country):
     sample_responses = ["You are stunning!", "We're proud of you.", "Keep on being you!",
                         "We're greatful to know you :)"]
     # return selected item to the user
-    return random.choice(sample_responses)
+    numberOfCases = ''
+    deaths = ''
+    if(pycountry.countries.get(name=country)):
+        numberOfCases, deaths = casesDataSet.numberOfCasesInCountry(country)
+    random_message = random.choice(sample_responses)
+    random_message += ' cases {} and deaths {}'.format(numberOfCases, deaths)
+    return random_message
+
 
 
 def send_message(recipient_id, response):
