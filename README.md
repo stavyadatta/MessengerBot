@@ -18,7 +18,7 @@ directory <br /><br />
 `venv\Scripts\activate` <br />
 Once activated you will `venv` at the corner of the terminal. **All the required packages need to be commited and pushed in this virtual enviroment** 
 <br />
-Participants
+## Participants
 * Stavya Datta
 * Meimona Hakim
 * Pramurta Chatterjee
