@@ -1,5 +1,5 @@
 # MessengerBot
-This is COVID-19 Chatbot hosted on Facebook Messenger. The bot will provide information on all the COVID Updates along with the number of recovered, cases and deaths. 
+This is COVID-19 Chatbot hosted on Facebook Messenger. The bot will provide information on all the COVID updates along with the number of recovered, infected and deaths. 
 
 The functional Requirements are as follows 
 * Users should get all the information about the number of cases on the bot, active cases, total cases, recovered cases.
