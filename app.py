@@ -2,8 +2,7 @@ import random
 import os
 from flask import Flask, request
 from pymessenger.bot import Bot
-import casesDataSet
-import pycountry
+from modifyingMessages import get_message
 app = Flask(__name__)
 
 VERIFY_TOKEN = 'COVID_CHATS'
@@ -39,21 +38,6 @@ def verify_token(token_sent):
     if token_sent == VERIFY_TOKEN:
         return request.args.get("hub.challenge")
     return "Invalid argument"
-
-
-def get_message(country):
-    sample_responses = ["You are stunning!", "We're proud of you.", "Keep on being you!",
-                        "We're greatful to know you :)"]
-    # return selected item to the user
-    numberOfCases = ''
-    deaths = ''
-    if pycountry.countries.get(name=country):
-        numberOfCases, deaths = casesDataSet.numberOfCasesInCountry(country)
-    random_message = random.choice(sample_responses)
-    random_message += ' cases {} and deaths {}'.format(numberOfCases, deaths)
-    return random_message
-
-
 
 def send_message(recipient_id, response):
     # sends user the text message provided via input response parameter
