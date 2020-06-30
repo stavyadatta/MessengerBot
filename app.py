@@ -2,13 +2,15 @@ import random
 import os
 from flask import Flask, request
 from pymessenger.bot import Bot
-from modifyingMessages import get_message
+from modifyingMessages import textDecider
+
 app = Flask(__name__)
 
 VERIFY_TOKEN = 'COVID_CHATS'
 os.environ['VERIFY_TOKEN'] = 'COVID_CHATS'
 ACCESS_TOKEN = 'EAAMd3g3exIMBAH8QbDKRZBOg5cpDmuXdshjL5z357suPlENg47XG7dJnQTdsU94x3JeAzMPZBvwZCyjhyff0LsmTRYTZBIVe8QLrxNK8sw2JqNfAZC1oe3BG5bytve8kGPYMNVlzdJc9pJrYR8cd9vW8Y2vocWWaZCrYwdxo2ntAZDZD '
 bot = Bot(ACCESS_TOKEN)
+
 
 @app.route('/', methods=['GET', 'POST'])
 def receive_message():
@@ -24,20 +26,20 @@ def receive_message():
                 if message.get('message'):
                     recipient_id = message['sender']['id']
                     if message['message'].get('text'):
-                        response_sent_text = get_message(message['message'].get('text'))
+                        response_sent_text = textDecider(message['message'].get('text'))
                         send_message(recipient_id, response_sent_text)
                         # in case of gif or text
                         if message['message'].get('attachments'):
-                            response_non_text = get_message()
+                            response_non_text = textDecider()
                             send_message(recipient_id, response_non_text)
         return "Message Processed"
-
 
 
 def verify_token(token_sent):
     if token_sent == VERIFY_TOKEN:
         return request.args.get("hub.challenge")
     return "Invalid argument"
+
 
 def send_message(recipient_id, response):
     # sends user the text message provided via input response parameter

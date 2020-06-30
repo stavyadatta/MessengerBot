@@ -1,16 +1,33 @@
-import random
 import pycountry
 import casesDataSet
+import HospitalLocation
 
 
-def get_message(country):
-    sample_responses = ["You are stunning!", "We're proud of you.", "Keep on being you!",
-                        "We're greatful to know you :)"]
+def textDecider(text):
+    if getCases(text):
+        return getCases(text)
+    elif getHospitals(text):
+        return getHospitals(text)
+    else:
+        return "Didn't get your text, please try again later"
+
+
+def getCases(country):
     # return selected item to the user
-    numberOfCases = ''
-    deaths = ''
     if pycountry.countries.get(name=country):
         numberOfCases, deaths = casesDataSet.numberOfCasesInCountry(country)
-    random_message = random.choice(sample_responses)
-    random_message += ' cases {} and deaths {}'.format(numberOfCases, deaths)
+    else:
+        return False
+    random_message = ' cases {} and deaths {}'.format(numberOfCases, deaths)
     return random_message
+
+
+def getHospitals(locality):
+    listOfHospitals = HospitalLocation.hospitalLocationsOnCoordinates(locality)
+    if listOfHospitals:
+        stringOfHospitals = ''
+        for hospitals in listOfHospitals:
+            stringOfHospitals += str(hospitals) + '\n'
+        return stringOfHospitals
+    else:
+        return False
