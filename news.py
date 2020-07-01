@@ -1,3 +1,4 @@
+
 import pycountry, datetime, requests,json
 country=input("Enter a country's name: ")
 countryClass=pycountry.countries.get(name=country)
@@ -18,9 +19,4 @@ for i in range(len(json_data['articles'])):
     answer.append([json_data['articles'][i]['source']['name'],json_data['articles'][i]['title'],json_data['articles'][i]['url']])
 
 print(answer)
-
-
-
-
-
 
