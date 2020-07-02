@@ -60,8 +60,6 @@ def getNews(text):
             break
 
     if listOfArticles:
-        for i in listOfArticles:
-            newsTexts += str(i) + '\n'
-        return newsTexts
+        return listOfArticles
     else:
         return False

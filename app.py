@@ -43,7 +43,11 @@ def verify_token(token_sent):
 
 def send_message(recipient_id, response):
     # sends user the text message provided via input response parameter
-    bot.send_text_message(recipient_id, response)
+    if type(response) == list:
+        for list_entity in response:
+            bot.send_text_message(recipient_id, list_entity)
+    else:
+        bot.send_text_message(recipient_id, response)
     return "success"
 
 
@@ -52,7 +56,7 @@ if __name__ == "__main__":
 
     HOST = os.environ.get('SERVER_HOST', 'localhost')
     try:
-        PORT = int(os.environ.get('SERVER_PORT', '5556'))
+        PORT = int(os.environ.get('SERVER_PORT', '5557'))
     except ValueError:
-        PORT = 5556
+        PORT = 5557
     app.run(HOST, PORT)

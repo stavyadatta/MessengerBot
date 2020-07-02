@@ -19,6 +19,16 @@ def return_news(country):
     for i in range(len(json_data['articles'])):
         answer.append([json_data['articles'][i]['source']['name'],json_data['articles'][i]['title'],json_data['articles'][i]['url']])
 
-    return answer
-news = return_news('India')  # Country name goes here
-print(news)
+    news = cleaning_news(answer)
+    return news
+
+
+def cleaning_news(news):
+    list_of_news = []
+    for list_news in news:
+        headlines = str(list_news[1]).replace('- {}'.format(list_news[0]), '')
+        stringNews = 'Source -  {}\n{} \n {}\n'.format(list_news[0], headlines, list_news[2])
+        list_of_news.append(stringNews)
+    return list_of_news
+
+print(return_news('India'))
