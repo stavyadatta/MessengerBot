@@ -19,7 +19,7 @@ directory <br />
 Once activated you will `venv` at the corner of the terminal. **All the required packages need to be commited and pushed in this virtual enviroment** 
 <br />
 ## Participants
-* Stavya Datta (The Amazing one)
-* Meimona Hakim (Ninja)
-* Pramurta Chatterjee (Pram-puta)
-* Atrik Das (still thinking lol)
+* Stavya Datta 
+* Meimona Hakim 
+* Pramurta Chatterjee 
+* Atrik Das 
