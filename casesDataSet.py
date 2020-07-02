@@ -35,7 +35,10 @@ def numberOfCasesInCountry(Country):
             cindex = i
             break
 
-    print("Total confirmed cases in total:" + str(json_data_summary['Countries'][cindex]['TotalConfirmed']))
-    return str(json_data_summary['Countries'][cindex]['TotalConfirmed']), \
-           str(json_data_summary['Countries'][cindex]['TotalDeaths'])
+    #print("Total confirmed cases in total:" + str(json_data_summary['Countries'][cindex]['TotalConfirmed']))
+    try:
+        return str(json_data_summary['Countries'][cindex]['TotalConfirmed']), \
+               str(json_data_summary['Countries'][cindex]['TotalDeaths'])
+    except TypeError:
+        return 'Didnt get what you are saying'
     # print("Total deaths in total:" + str(json_data_summary['Countries'][cindex]['TotalDeaths']))
