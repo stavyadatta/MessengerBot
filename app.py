@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 VERIFY_TOKEN = 'COVID_CHATS'
 os.environ['VERIFY_TOKEN'] = 'COVID_CHATS'
-ACCESS_TOKEN = 'EAAMd3g3exIMBAH8QbDKRZBOg5cpDmuXdshjL5z357suPlENg47XG7dJnQTdsU94x3JeAzMPZBvwZCyjhyff0LsmTRYTZBIVe8QLrxNK8sw2JqNfAZC1oe3BG5bytve8kGPYMNVlzdJc9pJrYR8cd9vW8Y2vocWWaZCrYwdxo2ntAZDZD '
+ACCESS_TOKEN = 'EAAMd3g3exIMBADqWvOr89Yi4QUEne7QTZARU4qEQPRxp0a8MJHBNZCqtw4D5GrC1uJCV6PbPKU1X7OGb0jiOw3MQ435cKZCvNjqgByl1D7b6wvXvqlgXQjZC0ZAVZABQBv1ZAQV5biOZBtZCcbAq5T3eGTZBIEf9gIcuVr5cpTM1zy0gZDZD '
 bot = Bot(ACCESS_TOKEN)
 
 
@@ -52,7 +52,7 @@ if __name__ == "__main__":
 
     HOST = os.environ.get('SERVER_HOST', 'localhost')
     try:
-        PORT = int(os.environ.get('SERVER_PORT', '5555'))
+        PORT = int(os.environ.get('SERVER_PORT', '5556'))
     except ValueError:
-        PORT = 5555
+        PORT = 5556
     app.run(HOST, PORT)
