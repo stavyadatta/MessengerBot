@@ -3,6 +3,8 @@ import HospitalLocation
 import pycountry
 import news
 
+# when info is not found
+alternate_text = "Didn't get your text, please try again later"
 
 def textDecider(text):
     textReturn = getCases(text)
@@ -17,19 +19,23 @@ def textDecider(text):
     if textReturn:
         return textReturn
 
-    return "Didn't get your text, please try again later"
+    return alternate_text
 
 
 def getCases(country):
     # return selected item to the user
     if pycountry.countries.get(name=country):
         try:
-            numberOfCases, deaths = casesDataSet.numberOfCasesInCountry(country)
+            numberOfCases, deaths, recovered, newConfirmed, newRecovered, newDeaths\
+                = casesDataSet.numberOfCasesInCountry(country)
         except ValueError:
             return "Too many values"
     else:
         return False
-    random_message = 'Stats for {} are\nCases: {}\nDeaths: {}'.format(country, numberOfCases, deaths)
+    random_message = 'Stats for {} are\nCases: {}\nDeaths: {}\nRecovered: {}' \
+                     '\nNew Confirmed: {}\nNew Recovered: {}\nNew Deaths: {}\n'.format(country, numberOfCases, deaths
+                                                                                       , recovered, newConfirmed,
+                                                                                       newRecovered, newDeaths)
     return random_message
 
 

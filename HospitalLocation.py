@@ -33,7 +33,7 @@ def listOfHospitals(location):
             # or [type.TYPE_CASINO])
             types=[types.TYPE_HOSPITAL])
     except AttributeError as e:
-        traceback.print_exc(file=sys.stdout)
+        traceback.print_exc()
         return False
 
     if query_result.has_attributions:
