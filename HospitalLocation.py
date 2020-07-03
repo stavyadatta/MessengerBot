@@ -17,6 +17,7 @@ def hospitalLocationsOnCoordinates(locality):
             return False
     except GeocoderTimedOut as e:
         print("Error: geocode failed on input %s with message %s" % (my_address, e.message))
+        traceback.print_exc()
         return False
 
 
@@ -33,7 +34,7 @@ def listOfHospitals(location):
             # or [type.TYPE_CASINO])
             types=[types.TYPE_HOSPITAL])
     except AttributeError as e:
-        traceback.print_exc(file=sys.stdout)
+        traceback.print_exc()
         return False
 
     if query_result.has_attributions:

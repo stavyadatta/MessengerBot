@@ -1,26 +1,8 @@
 import requests, json
-
+import modifyingMessages
+import traceback
 
 def numberOfCasesInCountry(Country):
-    url = "https://api.covid19api.com/countries"
-    country_list = list()
-    slug_list = list()
-    payload = {}
-    headers = {}
-    #
-    response = requests.request("GET", url, headers=headers, data=payload)
-    json_data = response.json()
-    for i in range(len(json_data)):
-        country_list.append(json_data[i]['Country'])
-        slug_list.append(json_data[i]['Slug'])
-        print(response)
-
-    for i in range(len(country_list)):
-        if Country == country_list[i]:
-            country_index = i
-            break
-    slug_country = slug_list[country_index]
-
     url_summary = "https://api.covid19api.com/summary"
 
     payload = {}
@@ -29,16 +11,44 @@ def numberOfCasesInCountry(Country):
     response = requests.request("GET", url_summary, headers=headers, data=payload)
     json_data_summary = response.json()
 
-    cindex = ''
-    for i in range(len(json_data_summary['Countries'])):
-        if (json_data_summary['Countries'][i]['Country'] == Country):
-            cindex = i
-            break
-
-    #print("Total confirmed cases in total:" + str(json_data_summary['Countries'][cindex]['TotalConfirmed']))
+    cindex = binary_search_countries(json_data_summary['Countries'], Country)
     try:
-        return str(json_data_summary['Countries'][cindex]['TotalConfirmed']), \
-               str(json_data_summary['Countries'][cindex]['TotalDeaths'])
+        return changeJson('TotalConfirmed', json_data_summary, cindex), \
+               changeJson('TotalDeaths', json_data_summary, cindex), \
+               changeJson('TotalRecovered', json_data_summary, cindex), \
+               changeJson('NewConfirmed', json_data_summary, cindex), \
+               changeJson('NewRecovered', json_data_summary, cindex), \
+               changeJson('NewDeaths', json_data_summary, cindex)
+
     except TypeError:
-        return 'Didnt get what you are saying'
-    # print("Total deaths in total:" + str(json_data_summary['Countries'][cindex]['TotalDeaths']))
+        traceback.print_exc()
+        return modifyingMessages.alternate_text
+
+
+def changeJson(parameter, json_data_summary, cindex):
+    return "{:,}".format(json_data_summary['Countries'][cindex][parameter])
+
+
+# Geeksforgeeks - https://www.geeksforgeeks.org/python-program-for-binary-search/
+def binary_search_countries(arr, x):
+    low = 0
+    high = len(arr) - 1
+    mid = 0
+    i = 0
+    while low <= high:
+        i = i + 1
+        mid = (high + low) // 2
+
+        # Check if x is present at mid
+        if arr[mid]['Country'] < x:
+            low = mid + 1
+
+        # If x is greater, ignore left half
+        elif arr[mid]['Country'] > x:
+            high = mid - 1
+
+        # If x is smaller, ignore right half
+        else:
+            return mid
+
+    return ''
