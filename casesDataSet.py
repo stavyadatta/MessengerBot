@@ -2,7 +2,6 @@ import requests, json
 import modifyingMessages
 import traceback
 
-
 def numberOfCasesInCountry(Country):
     url_summary = "https://api.covid19api.com/summary"
 

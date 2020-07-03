@@ -17,6 +17,7 @@ def hospitalLocationsOnCoordinates(locality):
             return False
     except GeocoderTimedOut as e:
         print("Error: geocode failed on input %s with message %s" % (my_address, e.message))
+        traceback.print_exc()
         return False
 
 
