@@ -91,7 +91,8 @@ def getStates(text):
                              'Cases: ' \
                              '{}\nDeaths: {}' \
                              '\nDischarged: {}' \
-                .format(state, stateData['totalConfirmed'], stateData['deaths'], stateData['discharged'])
+                .format(state, changeJson(stateData['totalConfirmed']), changeJson(stateData['deaths']),
+                        changeJson(stateData['discharged']))
             returningItem.append(random_message)
         return returningItem
     else:
@@ -106,3 +107,7 @@ def getStates(text):
 
 def intersection(lst1, lst2):
     return list(set(lst1) & set(lst2))
+
+
+def changeJson(number):
+    return "{:,}".format(number)
