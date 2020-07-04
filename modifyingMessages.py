@@ -101,7 +101,8 @@ def getStates(text):
                          'Cases: ' \
                          '{}\nDeaths: {}' \
                          '\nDischarged: {}' \
-            .format(stateInText[0], stateData['totalConfirmed'], stateData['deaths'], stateData['discharged'])
+            .format(stateInText[0], changeJson(stateData['totalConfirmed']), changeJson(stateData['deaths']),
+                    changeJson(stateData['discharged']))
         return random_message
 
 
