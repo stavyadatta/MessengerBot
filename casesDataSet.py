@@ -11,7 +11,7 @@ def numberOfCasesInCountry(Country):
     response = requests.request("GET", url_summary, headers=headers, data=payload)
     json_data_summary = response.json()
 
-    cindex = binary_search_countries(json_data_summary['Countries'], Country, 'Country')
+    cindex = binary_search(json_data_summary['Countries'], Country, 'Country')
     try:
         return changeJson('TotalConfirmed', json_data_summary, cindex), \
                changeJson('TotalDeaths', json_data_summary, cindex), \
@@ -30,25 +30,3 @@ def changeJson(parameter, json_data_summary, cindex):
 
 
 # Geeksforgeeks - https://www.geeksforgeeks.org/python-program-for-binary-search/
-def binary_search_countries(arr, x, parameter):
-    low = 0
-    high = len(arr) - 1
-    mid = 0
-    i = 0
-    while low <= high:
-        i = i + 1
-        mid = (high + low) // 2
-
-        # Check if x is present at mid
-        if arr[mid][parameter] < x:
-            low = mid + 1
-
-        # If x is greater, ignore left half
-        elif arr[mid][parameter] > x:
-            high = mid - 1
-
-        # If x is smaller, ignore right half
-        else:
-            return mid
-
-    return ''

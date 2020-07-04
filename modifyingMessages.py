@@ -2,12 +2,19 @@ import casesDataSet
 import HospitalLocation
 import pycountry
 import news
+import state_list
+import indianData
 
 # when info is not found
 alternate_text = "Didn't get your text, please try again later"
 
+
 def textDecider(text):
     textReturn = getCases(text)
+    if textReturn:
+        return textReturn
+
+    textReturn = getStates(text)
     if textReturn:
         return textReturn
 
@@ -26,7 +33,7 @@ def getCases(country):
     # return selected item to the user
     if pycountry.countries.get(name=country):
         try:
-            numberOfCases, deaths, recovered, newConfirmed, newRecovered, newDeaths\
+            numberOfCases, deaths, recovered, newConfirmed, newRecovered, newDeaths \
                 = casesDataSet.numberOfCasesInCountry(country)
         except ValueError:
             return "Too many values"
@@ -69,3 +76,33 @@ def getNews(text):
         return listOfArticles
     else:
         return False
+
+
+def getStates(text):
+    listOfText = text.split()
+    stateInText = intersection(listOfText, state_list.state_list)
+    if not stateInText:
+        return False
+    if len(stateInText) > 1:
+        returningItem = []
+        for state in stateInText:
+            stateData = indianData.state_wise_numbers(state)
+            random_message = 'Stats for {} are\n' \
+                             'Cases: ' \
+                             '{}\nDeaths: {}' \
+                             '\nDischarged: {}' \
+                .format(state, stateData['totalConfirmed'], stateData['deaths'], stateData['discharged'])
+            returningItem.append(random_message)
+        return returningItem
+    else:
+        stateData = indianData.state_wise_numbers(stateInText[0])
+        random_message = 'Stats for {} are\n' \
+                         'Cases: ' \
+                         '{}\nDeaths: {}' \
+                         '\nDischarged: {}' \
+            .format(stateInText[0], stateData['totalConfirmed'], stateData['deaths'], stateData['discharged'])
+        return random_message
+
+
+def intersection(lst1, lst2):
+    return list(set(lst1) & set(lst2))
