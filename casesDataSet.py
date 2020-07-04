@@ -1,6 +1,7 @@
 import requests, json
 import modifyingMessages
 import traceback
+from binary_search import binary_search
 
 def numberOfCasesInCountry(Country):
     url_summary = "https://api.covid19api.com/summary"

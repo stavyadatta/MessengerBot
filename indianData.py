@@ -15,4 +15,3 @@ def state_wise_numbers(text):
     state = binary_search(state_wise_count, text, 'loc')
     return state_wise_count[state]
 
-print(state_wise_numbers('Delhi'))
