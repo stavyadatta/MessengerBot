@@ -87,33 +87,14 @@ def getStates(text):
         returningItem = []
         for state in stateInText:
             stateData = indianData.state_wise_numbers(state)
-            random_message = 'Stats for {} are\n' \
-                             'Cases: ' \
-                             '{}\nDeaths: {}' \
-                             '\nDischarged: {}' \
-                .format(state, changeJson(stateData['totalConfirmed']), changeJson(stateData['deaths']),
-                        changeJson(stateData['discharged']))
+            stateHospitals = indianData.beds_state_wise(state)
+            random_message = messageGeneration(state, stateData, stateHospitals)
             returningItem.append(random_message)
         return returningItem
     else:
         stateData = indianData.state_wise_numbers(stateInText[0])
         stateHospitals = indianData.beds_state_wise(stateInText[0])
-        random_message = 'Stats for {} are\n' \
-                         'Cases: ' \
-                         '{}\nDeaths: {}' \
-                         '\nDischarged: {}\n\nHospitals in {}\n' \
-            .format(stateInText[0], changeJson(stateData['totalConfirmed']), changeJson(stateData['deaths']),
-                    changeJson(stateData['discharged']), stateInText[0])
-        for hospital in stateHospitals:
-            random_message += 'Name: {}' \
-                              '\nCity: {}' \
-                              '\nAdmission Capacity: {}' \
-                              '\nHospital beds: {}' \
-                              '\nOwner: {}\n\n'.format(hospital['name'], hospital['city'],
-                                                       hospital['admissionCapacity'], hospital['hospitalBeds'],
-                                                       hospital['ownership'])
-
-        return random_message
+        return messageGeneration(stateInText[0], stateData, stateHospitals)
 
 
 def intersection(lst1, lst2):
@@ -122,3 +103,21 @@ def intersection(lst1, lst2):
 
 def changeJson(number):
     return "{:,}".format(number)
+
+
+def messageGeneration(stateName, stateData, stateHospitals):
+    random_message = 'Stats for {} are\n' \
+                     'Cases: ' \
+                     '{}\nDeaths: {}' \
+                     '\nDischarged: {}\n\nHospitals in {}\n' \
+        .format(stateName, changeJson(stateData['totalConfirmed']), changeJson(stateData['deaths']),
+                changeJson(stateData['discharged']), stateName)
+    for hospital in stateHospitals:
+        random_message += 'Name: {}' \
+                          '\nCity: {}' \
+                          '\nAdmission Capacity: {}' \
+                          '\nHospital beds: {}' \
+                          '\nOwner: {}\n\n'.format(hospital['name'], hospital['city'],
+                                                   hospital['admissionCapacity'], hospital['hospitalBeds'],
+                                                   hospital['ownership'])
+    return random_message
