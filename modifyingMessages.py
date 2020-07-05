@@ -103,7 +103,7 @@ def getStates(text):
                          '{}\nDeaths: {}' \
                          '\nDischarged: {}\n\nHospitals in {}\n' \
             .format(stateInText[0], changeJson(stateData['totalConfirmed']), changeJson(stateData['deaths']),
-                    changeJson(stateData['discharged']), changeJson(stateInText[0]))
+                    changeJson(stateData['discharged']), stateInText[0])
         for hospital in stateHospitals:
             random_message += 'Name: {}' \
                               '\nCity: {}' \
