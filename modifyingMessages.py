@@ -97,12 +97,22 @@ def getStates(text):
         return returningItem
     else:
         stateData = indianData.state_wise_numbers(stateInText[0])
+        stateHospitals = indianData.beds_state_wise(stateInText[0])
         random_message = 'Stats for {} are\n' \
                          'Cases: ' \
                          '{}\nDeaths: {}' \
-                         '\nDischarged: {}' \
+                         '\nDischarged: {}\n\nHospitals in {}\n' \
             .format(stateInText[0], changeJson(stateData['totalConfirmed']), changeJson(stateData['deaths']),
-                    changeJson(stateData['discharged']))
+                    changeJson(stateData['discharged']), changeJson(stateInText[0]))
+        for hospital in stateHospitals:
+            random_message += 'Name: {}' \
+                              '\nCity: {}' \
+                              '\nAdmission Capacity: {}' \
+                              '\nHospital beds: {}' \
+                              '\nOwner: {}\n\n'.format(hospital['name'], hospital['city'],
+                                                       hospital['admissionCapacity'], hospital['hospitalBeds'],
+                                                       hospital['ownership'])
+
         return random_message
 
 

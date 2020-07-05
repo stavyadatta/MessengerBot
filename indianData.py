@@ -15,3 +15,16 @@ def state_wise_numbers(text):
     state = binary_search(state_wise_count, text, 'loc')
     return state_wise_count[state]
 
+
+def beds_state_wise(text):
+    with open('hospitalData.json', 'r') as fp:
+        data = json.load(fp)
+    state_hospitals = data[text]
+    list_of_hospitals = []
+    for city in state_hospitals.keys():
+        for hospital in state_hospitals[city]:
+            list_of_hospitals.append(hospital)
+    return list_of_hospitals
+
+test = beds_state_wise('Maharastra')
+print(test)

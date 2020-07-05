@@ -1,0 +1,4662 @@
+{
+    "A & N Islands": {
+        "Port Blair": [
+            {
+                "admissionCapacity": 100,
+                "city": "Port Blair",
+                "hospitalBeds": 460,
+                "name": "Andaman & Nicobar Islands Insitute of Medical Sciences, Port Blair",
+                "ownership": "Govt.",
+                "state": "A & N Islands"
+            }
+        ]
+    },
+    "Andhra Pradesh": {
+        "Amalapuram": [
+            {
+                "admissionCapacity": 150,
+                "city": "Amalapuram",
+                "hospitalBeds": 879,
+                "name": "Konaseema Institute of Med. Sci. & Research Foundation, Amalapuram",
+                "ownership": "Trust",
+                "state": "Andhra Pradesh"
+            }
+        ],
+        "Anantapurram": [
+            {
+                "admissionCapacity": 100,
+                "city": "Anantapurram",
+                "hospitalBeds": 500,
+                "name": "Government Medical College, Anantapuram",
+                "ownership": "Govt.",
+                "state": "Andhra Pradesh"
+            }
+        ],
+        "Chinoutpalli": [
+            {
+                "admissionCapacity": 150,
+                "city": "Chinoutpalli",
+                "hospitalBeds": 398,
+                "name": "Dr. P.S.I. Medical College , Chinoutpalli",
+                "ownership": "Trust",
+                "state": "Andhra Pradesh"
+            }
+        ],
+        "Chittoor": [
+            {
+                "admissionCapacity": 150,
+                "city": "Chittoor",
+                "hospitalBeds": 0,
+                "name": "Apollo Institute of Medical Sciences and Research, Chittoor",
+                "ownership": "Society",
+                "state": "Andhra Pradesh"
+            },
+            {
+                "admissionCapacity": 0,
+                "city": "Chittoor",
+                "hospitalBeds": 0,
+                "name": "RVS Institute of Medical Sciences, Chittoor",
+                "ownership": "Society",
+                "state": "Andhra Pradesh"
+            }
+        ],
+        "Eluru": [
+            {
+                "admissionCapacity": 150,
+                "city": "Eluru",
+                "hospitalBeds": 1070,
+                "name": "Alluri Sitaram Raju Academy of Medical Sciences, Eluru",
+                "ownership": "Trust",
+                "state": "Andhra Pradesh"
+            }
+        ],
+        "Guntur": [
+            {
+                "admissionCapacity": 200,
+                "city": "Guntur",
+                "hospitalBeds": 1277,
+                "name": "Guntur Medical College, Guntur",
+                "ownership": "Govt.",
+                "state": "Andhra Pradesh"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Guntur",
+                "hospitalBeds": 900,
+                "name": "Katuri Medical College, Guntur",
+                "ownership": "Trust",
+                "state": "Andhra Pradesh"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Guntur",
+                "hospitalBeds": 1000,
+                "name": "NRI Medical College, Guntur",
+                "ownership": "Trust",
+                "state": "Andhra Pradesh"
+            }
+        ],
+        "Kadapa": [
+            {
+                "admissionCapacity": 100,
+                "city": "Kadapa",
+                "hospitalBeds": 450,
+                "name": "Fathima Instt. of Medical Sciences, Kadapa",
+                "ownership": "Trust",
+                "state": "Andhra Pradesh"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Kadapa",
+                "hospitalBeds": 750,
+                "name": "Rajiv Gandhi Institute of Medical Sciences, Kadapa",
+                "ownership": "Govt.",
+                "state": "Andhra Pradesh"
+            }
+        ],
+        "Kakinada": [
+            {
+                "admissionCapacity": 200,
+                "city": "Kakinada",
+                "hospitalBeds": 1085,
+                "name": "Rangaraya Medical College, Kakinada",
+                "ownership": "Govt.",
+                "state": "Andhra Pradesh"
+            }
+        ],
+        "Krishna Dist.": [
+            {
+                "admissionCapacity": 0,
+                "city": "Krishna Dist.",
+                "hospitalBeds": 0,
+                "name": "Nimra Institute of Medical Sciences, Krishna Dist.",
+                "ownership": "Society",
+                "state": "Andhra Pradesh"
+            }
+        ],
+        "Kuppam": [
+            {
+                "admissionCapacity": 150,
+                "city": "Kuppam",
+                "hospitalBeds": 750,
+                "name": "P E S Institute Of Medical Sciences and Research, Kuppam",
+                "ownership": "Trust",
+                "state": "Andhra Pradesh"
+            }
+        ],
+        "Kurnool": [
+            {
+                "admissionCapacity": 200,
+                "city": "Kurnool",
+                "hospitalBeds": 1050,
+                "name": "Kurnool Medical College, Kurnool",
+                "ownership": "Govt.",
+                "state": "Andhra Pradesh"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Kurnool",
+                "hospitalBeds": 0,
+                "name": "Viswabharathi Medical College, Kurnool",
+                "ownership": "Society",
+                "state": "Andhra Pradesh"
+            }
+        ],
+        "Nandyal": [
+            {
+                "admissionCapacity": 100,
+                "city": "Nandyal",
+                "hospitalBeds": 700,
+                "name": "Santhiram Medical College, Nandyal",
+                "ownership": "Trust",
+                "state": "Andhra Pradesh"
+            }
+        ],
+        "Nellore": [
+            {
+                "admissionCapacity": 150,
+                "city": "Nellore",
+                "hospitalBeds": 750,
+                "name": "ACSR Government Medical College Nellore",
+                "ownership": "Govt.",
+                "state": "Andhra Pradesh"
+            },
+            {
+                "admissionCapacity": 250,
+                "city": "Nellore",
+                "hospitalBeds": 1550,
+                "name": "Narayana Medical College, Nellore",
+                "ownership": "Trust",
+                "state": "Andhra Pradesh"
+            }
+        ],
+        "Ongole": [
+            {
+                "admissionCapacity": 100,
+                "city": "Ongole",
+                "hospitalBeds": 300,
+                "name": "Rajiv Gandhi Institute of Medical Sciences,Ongole, AP",
+                "ownership": "Govt.",
+                "state": "Andhra Pradesh"
+            }
+        ],
+        "Rajahmundry": [
+            {
+                "admissionCapacity": 200,
+                "city": "Rajahmundry",
+                "hospitalBeds": 1000,
+                "name": "GSL Medical College, Rajahmundry",
+                "ownership": "Trust",
+                "state": "Andhra Pradesh"
+            }
+        ],
+        "Srikakulam": [
+            {
+                "admissionCapacity": 100,
+                "city": "Srikakulam",
+                "hospitalBeds": 350,
+                "name": "Great Eastern Medical School and Hospital,Srikakulam",
+                "ownership": "Trust",
+                "state": "Andhra Pradesh"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Srikakulam",
+                "hospitalBeds": 300,
+                "name": "Rajiv Gandhi Institute of Medical Sciences, Srikakulam",
+                "ownership": "Govt.",
+                "state": "Andhra Pradesh"
+            }
+        ],
+        "Tirupati": [
+            {
+                "admissionCapacity": 200,
+                "city": "Tirupati",
+                "hospitalBeds": 862,
+                "name": "S V Medical College, Tirupati",
+                "ownership": "Govt.",
+                "state": "Andhra Pradesh"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Tirupati",
+                "hospitalBeds": 650,
+                "name": "SVIM-Sri Padmavathi Medical College for Women, Alipiri Road, Tirupati",
+                "ownership": "Govt.",
+                "state": "Andhra Pradesh"
+            }
+        ],
+        "Vijaywada": [
+            {
+                "admissionCapacity": 150,
+                "city": "Vijaywada",
+                "hospitalBeds": 412,
+                "name": "Government Siddhartha Medical College, Vijaywada",
+                "ownership": "Govt.",
+                "state": "Andhra Pradesh"
+            }
+        ],
+        "Visakhapatanam": [
+            {
+                "admissionCapacity": 150,
+                "city": "Visakhapatanam",
+                "hospitalBeds": 0,
+                "name": "GITAM Institute of Medical Sciences and Research, Visakhapatam",
+                "ownership": "University",
+                "state": "Andhra Pradesh"
+            }
+        ],
+        "Visakhapatnam": [
+            {
+                "admissionCapacity": 200,
+                "city": "Visakhapatnam",
+                "hospitalBeds": 2017,
+                "name": "Andhra Medical College, Visakhapatnam",
+                "ownership": "Govt.",
+                "state": "Andhra Pradesh"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Visakhapatnam",
+                "hospitalBeds": 0,
+                "name": "Gayathri Vidya Parishad Inst. of Health Care & Med. Tech. Visakhapatnam",
+                "ownership": "Society",
+                "state": "Andhra Pradesh"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Visakhapatnam",
+                "hospitalBeds": 360,
+                "name": "NRI Institute of Medical Sciences, Visakhapatnam",
+                "ownership": "Trust",
+                "state": "Andhra Pradesh"
+            }
+        ],
+        "Vizianagaram": [
+            {
+                "admissionCapacity": 150,
+                "city": "Vizianagaram",
+                "hospitalBeds": 1050,
+                "name": "Maharajah Institute of Medical Sciences, Vizianagaram",
+                "ownership": "Trust",
+                "state": "Andhra Pradesh"
+            }
+        ]
+    },
+    "Assam": {
+        "Barpeta,": [
+            {
+                "admissionCapacity": 100,
+                "city": "Barpeta,",
+                "hospitalBeds": 500,
+                "name": "Fakhruddin Ali Ahmed Medical College, Barpeta, Assam",
+                "ownership": "Govt-Society",
+                "state": "Assam"
+            }
+        ],
+        "Dibrugarh": [
+            {
+                "admissionCapacity": 170,
+                "city": "Dibrugarh",
+                "hospitalBeds": 1365,
+                "name": "Assam Medical College, Dibrugarh",
+                "ownership": "Govt.",
+                "state": "Assam"
+            }
+        ],
+        "Guwahati": [
+            {
+                "admissionCapacity": 156,
+                "city": "Guwahati",
+                "hospitalBeds": 1982,
+                "name": "Gauhati Medical College, Guwahati",
+                "ownership": "Govt.",
+                "state": "Assam"
+            }
+        ],
+        "Jorhat": [
+            {
+                "admissionCapacity": 100,
+                "city": "Jorhat",
+                "hospitalBeds": 400,
+                "name": "Jorhat Medical College & Hospital , Jorhat",
+                "ownership": "Govt.",
+                "state": "Assam"
+            }
+        ],
+        "Silchar": [
+            {
+                "admissionCapacity": 100,
+                "city": "Silchar",
+                "hospitalBeds": 906,
+                "name": "Silchar Medical College, Silchar",
+                "ownership": "Govt.",
+                "state": "Assam"
+            }
+        ],
+        "Tezpur": [
+            {
+                "admissionCapacity": 100,
+                "city": "Tezpur",
+                "hospitalBeds": 500,
+                "name": "Tezpur Medical College & Hospital, Tezpur",
+                "ownership": "Govt.",
+                "state": "Assam"
+            }
+        ]
+    },
+    "Bihar": {
+        "Bettiah": [
+            {
+                "admissionCapacity": 100,
+                "city": "Bettiah",
+                "hospitalBeds": 315,
+                "name": "Government Medical College, Bettiah",
+                "ownership": "Govt.",
+                "state": "Bihar"
+            }
+        ],
+        "Bhagalpur": [
+            {
+                "admissionCapacity": 100,
+                "city": "Bhagalpur",
+                "hospitalBeds": 659,
+                "name": "Jawaharlal Nehru Medical College, Bhagalpur",
+                "ownership": "Govt.",
+                "state": "Bihar"
+            }
+        ],
+        "Gaya": [
+            {
+                "admissionCapacity": 100,
+                "city": "Gaya",
+                "hospitalBeds": 544,
+                "name": "Anugrah Narayan Magadh Medical College, Gaya",
+                "ownership": "Govt.",
+                "state": "Bihar"
+            }
+        ],
+        "Katihar": [
+            {
+                "admissionCapacity": 100,
+                "city": "Katihar",
+                "hospitalBeds": 580,
+                "name": "Katihar Medical College, Katihar",
+                "ownership": "Trust",
+                "state": "Bihar"
+            }
+        ],
+        "Kishanganj": [
+            {
+                "admissionCapacity": 100,
+                "city": "Kishanganj",
+                "hospitalBeds": 0,
+                "name": "Mata Gujri Memorial Medical College, Kishanganj Kishanganj Trust 100 NA",
+                "ownership": "Trust",
+                "state": "Bihar"
+            }
+        ],
+        "Lehriasarai": [
+            {
+                "admissionCapacity": 100,
+                "city": "Lehriasarai",
+                "hospitalBeds": 1030,
+                "name": "Darbhanga Medical College, Lehriasarai",
+                "ownership": "Govt.",
+                "state": "Bihar"
+            }
+        ],
+        "Muzzafarpur": [
+            {
+                "admissionCapacity": 100,
+                "city": "Muzzafarpur",
+                "hospitalBeds": 612,
+                "name": "Shri Krishna Medical College, Muzzafarpur Muzzafarpur Govt. 100 612",
+                "ownership": "Govt.",
+                "state": "Bihar"
+            }
+        ],
+        "Nalanda": [
+            {
+                "admissionCapacity": 100,
+                "city": "Nalanda",
+                "hospitalBeds": 0,
+                "name": "Vardhman Institute of Medical Sciences, Pawapuri, Nalanda Nalanda Govt.",
+                "ownership": "Govt.",
+                "state": "Bihar"
+            }
+        ],
+        "Patna": [
+            {
+                "admissionCapacity": 100,
+                "city": "Patna",
+                "hospitalBeds": 0,
+                "name": "All India Institute of Medical Sciences Patna, Bihar",
+                "ownership": "Govt",
+                "state": "Bihar"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Patna",
+                "hospitalBeds": 500,
+                "name": "Indira Gandhi Institute of Medical Sciences,Sheikhpura Patna",
+                "ownership": "Govt.",
+                "state": "Bihar"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Patna",
+                "hospitalBeds": 752,
+                "name": "Nalanda Medical College, Patna",
+                "ownership": "Govt.",
+                "state": "Bihar"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Patna",
+                "hospitalBeds": 1675,
+                "name": "Patna Medical College, Patna",
+                "ownership": "Govt.",
+                "state": "Bihar"
+            }
+        ],
+        "Sasaram": [
+            {
+                "admissionCapacity": 100,
+                "city": "Sasaram",
+                "hospitalBeds": 500,
+                "name": "Narayan Medical College & Hospital, Sasaram",
+                "ownership": "Trust",
+                "state": "Bihar"
+            }
+        ]
+    },
+    "Chandigarh": {
+        "Chandigarh": [
+            {
+                "admissionCapacity": 100,
+                "city": "Chandigarh",
+                "hospitalBeds": 0,
+                "name": "Government Medical College, Chandigarh",
+                "ownership": "Govt.",
+                "state": "Chandigarh"
+            }
+        ]
+    },
+    "Chhattisgarh": {
+        "Ambikapur": [
+            {
+                "admissionCapacity": 0,
+                "city": "Ambikapur",
+                "hospitalBeds": 414,
+                "name": "Govt. Medical College, Ambikapur(Surguja)",
+                "ownership": "Govt.",
+                "state": "Chhattisgarh"
+            }
+        ],
+        "Bhilai": [
+            {
+                "admissionCapacity": 150,
+                "city": "Bhilai",
+                "hospitalBeds": 350,
+                "name": "Shri Shankaracharya Institute of Medical Sciences, Bhilai",
+                "ownership": "Society",
+                "state": "Chhattisgarh"
+            }
+        ],
+        "Bilaspur": [
+            {
+                "admissionCapacity": 150,
+                "city": "Bilaspur",
+                "hospitalBeds": 672,
+                "name": "Chhattisgarh Institute of Medical Sciences, Bilaspur",
+                "ownership": "Govt.",
+                "state": "Chhattisgarh"
+            }
+        ],
+        "Durg": [
+            {
+                "admissionCapacity": 150,
+                "city": "Durg",
+                "hospitalBeds": 750,
+                "name": "Chandulal Chandrakar Memorial Medical College, Durg",
+                "ownership": "Private",
+                "state": "Chhattisgarh"
+            }
+        ],
+        "Jagdalpur": [
+            {
+                "admissionCapacity": 100,
+                "city": "Jagdalpur",
+                "hospitalBeds": 470,
+                "name": "Late Shri Baliram Kashyap Memorial NDMC Govt. Medical College, Jagdalpur",
+                "ownership": "Govt.",
+                "state": "Chhattisgarh"
+            }
+        ],
+        "Raigarh": [
+            {
+                "admissionCapacity": 50,
+                "city": "Raigarh",
+                "hospitalBeds": 650,
+                "name": "Late Shri Lakhi Ram Agrawal Memorial Govt. Medical College, Raigarh",
+                "ownership": "Govt.",
+                "state": "Chhattisgarh"
+            }
+        ],
+        "Raipur": [
+            {
+                "admissionCapacity": 100,
+                "city": "Raipur",
+                "hospitalBeds": 0,
+                "name": "All India Institute of Medical Sciences Raipur",
+                "ownership": "Govt",
+                "state": "Chhattisgarh"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Raipur",
+                "hospitalBeds": 1153,
+                "name": "Pt. J N M Medical College, Raipur",
+                "ownership": "Govt.",
+                "state": "Chhattisgarh"
+            },
+            {
+                "admissionCapacity": 0,
+                "city": "Raipur",
+                "hospitalBeds": 300,
+                "name": "Raipur Institute of Medical Sciences(RIMS), Raipur.",
+                "ownership": "Society",
+                "state": "Chhattisgarh"
+            }
+        ],
+        "Rajnandgaon": [
+            {
+                "admissionCapacity": 100,
+                "city": "Rajnandgaon",
+                "hospitalBeds": 380,
+                "name": "Government Medical College, Rajnandgaon",
+                "ownership": "Govt.",
+                "state": "Chhattisgarh"
+            }
+        ]
+    },
+    "Delhi": {
+        "Delhi": [
+            {
+                "admissionCapacity": 100,
+                "city": "Delhi",
+                "hospitalBeds": 0,
+                "name": "Baba Saheb Ambedkar Medical College, Rohini, Delhi",
+                "ownership": "Govt.",
+                "state": "Delhi"
+            }
+        ],
+        "New Delhi": [
+            {
+                "admissionCapacity": 50,
+                "city": "New Delhi",
+                "hospitalBeds": 2362,
+                "name": "All India Institute of Medical Sciences, New Delhi",
+                "ownership": "Govt.",
+                "state": "Delhi"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "New Delhi",
+                "hospitalBeds": 999,
+                "name": "Army College of Medical Sciences, New Delhi",
+                "ownership": "Trust",
+                "state": "Delhi"
+            },
+            {
+                "admissionCapacity": 0,
+                "city": "New Delhi",
+                "hospitalBeds": 350,
+                "name": "Hamdard Institute of Medical Sciences & Research, New Delhi",
+                "ownership": "Society",
+                "state": "Delhi"
+            },
+            {
+                "admissionCapacity": 200,
+                "city": "New Delhi",
+                "hospitalBeds": 877,
+                "name": "Lady Hardinge Medical College, New Delhi",
+                "ownership": "Govt.",
+                "state": "Delhi"
+            },
+            {
+                "admissionCapacity": 250,
+                "city": "New Delhi",
+                "hospitalBeds": 1500,
+                "name": "Maulana Azad Medical College, New Delhi",
+                "ownership": "Govt.",
+                "state": "Delhi"
+            },
+            {
+                "admissionCapacity": 50,
+                "city": "New Delhi",
+                "hospitalBeds": 980,
+                "name": "North Delhi Muncipal Corporation Medical College, Delhi",
+                "ownership": "Govt.",
+                "state": "Delhi"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "New Delhi",
+                "hospitalBeds": 872,
+                "name": "University College of Medical Sciences & GTB Hospital, New Delhi",
+                "ownership": "Govt.",
+                "state": "Delhi"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "New Delhi",
+                "hospitalBeds": 1531,
+                "name": "Vardhman Institute of Medical Sciences, Pawapuri, Nalanda",
+                "ownership": "Govt.",
+                "state": "Delhi"
+            }
+        ]
+    },
+    "Goa": {
+        "Panaji": [
+            {
+                "admissionCapacity": 150,
+                "city": "Panaji",
+                "hospitalBeds": 1152,
+                "name": "Goa Medical College, Panaji",
+                "ownership": "Govt.",
+                "state": "Goa"
+            }
+        ]
+    },
+    "Gujarat": {
+        "Ahmedabad": [
+            {
+                "admissionCapacity": 250,
+                "city": "Ahmedabad",
+                "hospitalBeds": 1600,
+                "name": "Smt. N.H.L.Municipal Medical College, Ahmedabad",
+                "ownership": "Govt.",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Ahmedabad",
+                "hospitalBeds": 300,
+                "name": "Ahmedabad Municipal Cop. Med. Edu. Trust Med. College, Ahmedabad",
+                "ownership": "Govt.",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 250,
+                "city": "Ahmedabad",
+                "hospitalBeds": 2000,
+                "name": "B J Medical College, Ahmedabad",
+                "ownership": "Govt.",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Ahmedabad",
+                "hospitalBeds": 0,
+                "name": "Dr M.K. Saha Medical College and Research Centre, Ahmedabad",
+                "ownership": "Trust",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Ahmedabad",
+                "hospitalBeds": 425,
+                "name": "GCS Medical College, Ahmedabad",
+                "ownership": "Trust",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Ahmedabad",
+                "hospitalBeds": 415,
+                "name": "GMERS Medical College, Sola, Ahmedabad",
+                "ownership": "Govt-Society",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Ahmedabad",
+                "hospitalBeds": 300,
+                "name": "Ahmedabad Municipal Cop. Med. Edu. Trust Med. College, Ahmedabad",
+                "ownership": "Govt.",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 250,
+                "city": "Ahmedabad",
+                "hospitalBeds": 2000,
+                "name": "B J Medical College, Ahmedabad",
+                "ownership": "Govt.",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Ahmedabad",
+                "hospitalBeds": 0,
+                "name": "Dr M.K. Saha Medical College and Research Centre, Ahmedabad",
+                "ownership": "Trust",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Ahmedabad",
+                "hospitalBeds": 425,
+                "name": "GCS Medical College, Ahmedabad",
+                "ownership": "Trust",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Ahmedabad",
+                "hospitalBeds": 415,
+                "name": "GMERS Medical College, Sola, Ahmedabad",
+                "ownership": "Govt-Society",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 250,
+                "city": "Ahmedabad",
+                "hospitalBeds": 1600,
+                "name": "Smt. N.H.L.Municipal Medical College, Ahmedabad",
+                "ownership": "Govt.",
+                "state": "Gujarat"
+            }
+        ],
+        "Baroda": [
+            {
+                "admissionCapacity": 180,
+                "city": "Baroda",
+                "hospitalBeds": 1513,
+                "name": "Medical College, Baroda",
+                "ownership": "Govt.",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 180,
+                "city": "Baroda",
+                "hospitalBeds": 1513,
+                "name": "Medical College, Baroda",
+                "ownership": "Govt.",
+                "state": "Gujarat"
+            }
+        ],
+        "Bhavnagar": [
+            {
+                "admissionCapacity": 150,
+                "city": "Bhavnagar",
+                "hospitalBeds": 709,
+                "name": "Government Medical College, Bhavnagar",
+                "ownership": "Govt.",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Bhavnagar",
+                "hospitalBeds": 709,
+                "name": "Government Medical College, Bhavnagar",
+                "ownership": "Govt.",
+                "state": "Gujarat"
+            }
+        ],
+        "Bhuj": [
+            {
+                "admissionCapacity": 150,
+                "city": "Bhuj",
+                "hospitalBeds": 645,
+                "name": "Gujarat Adani Institute of Medical Sciences, Bhuj",
+                "ownership": "Trust",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Bhuj",
+                "hospitalBeds": 645,
+                "name": "Gujarat Adani Institute of Medical Sciences, Bhuj",
+                "ownership": "Govt.",
+                "state": "Gujarat"
+            }
+        ],
+        "Dharpur Patan": [
+            {
+                "admissionCapacity": 150,
+                "city": "Dharpur Patan",
+                "hospitalBeds": 300,
+                "name": "GMERS Medical College, Dharpur Patan",
+                "ownership": "Govt-Society",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Dharpur Patan",
+                "hospitalBeds": 300,
+                "name": "GMERS Medical College, Dharpur Patan",
+                "ownership": "Govt-Society",
+                "state": "Gujarat"
+            }
+        ],
+        "Gandhinagar": [
+            {
+                "admissionCapacity": 150,
+                "city": "Gandhinagar",
+                "hospitalBeds": 300,
+                "name": "GMERS Medical College, Gandhinagar",
+                "ownership": "Govt-Society",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Gandhinagar",
+                "hospitalBeds": 300,
+                "name": "GMERS Medical College, Gandhinagar",
+                "ownership": "Govt-Society",
+                "state": "Gujarat"
+            }
+        ],
+        "Himmatnagar": [
+            {
+                "admissionCapacity": 150,
+                "city": "Himmatnagar",
+                "hospitalBeds": 300,
+                "name": "GMERS Medical College,Hadiyol, Himmatnagar",
+                "ownership": "Govt-Society",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Himmatnagar",
+                "hospitalBeds": 300,
+                "name": "GMERS Medical College,Hadiyol, Himmatnagar",
+                "ownership": "Govt-Society",
+                "state": "Gujarat"
+            }
+        ],
+        "Jamnagar": [
+            {
+                "admissionCapacity": 200,
+                "city": "Jamnagar",
+                "hospitalBeds": 1263,
+                "name": "MP Shah Medical College,Jamnagar",
+                "ownership": "Govt.",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 200,
+                "city": "Jamnagar",
+                "hospitalBeds": 1263,
+                "name": "MP Shah Medical College,Jamnagar",
+                "ownership": "Govt.",
+                "state": "Gujarat"
+            }
+        ],
+        "Junagadh": [
+            {
+                "admissionCapacity": 150,
+                "city": "Junagadh",
+                "hospitalBeds": 450,
+                "name": "GMERS Medical College, Junagadh",
+                "ownership": "Govt-Society",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Junagadh",
+                "hospitalBeds": 450,
+                "name": "GMERS Medical College, Junagadh",
+                "ownership": "Govt-Society",
+                "state": "Gujarat"
+            }
+        ],
+        "Karmsad": [
+            {
+                "admissionCapacity": 150,
+                "city": "Karmsad",
+                "hospitalBeds": 550,
+                "name": "Pramukhswami Medical College, Karmsad",
+                "ownership": "Trust",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Karmsad",
+                "hospitalBeds": 550,
+                "name": "Pramukhswami Medical College, Karmsad",
+                "ownership": "Trust",
+                "state": "Gujarat"
+            }
+        ],
+        "Mehsana": [
+            {
+                "admissionCapacity": 150,
+                "city": "Mehsana",
+                "hospitalBeds": 0,
+                "name": "GMERS Medical CollegeVadnagar, Mehsana",
+                "ownership": "Govt-Society",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Mehsana",
+                "hospitalBeds": 0,
+                "name": "GMERS Medical CollegeVadnagar, Mehsana",
+                "ownership": "Govt-Society",
+                "state": "Gujarat"
+            }
+        ],
+        "Rajkot": [
+            {
+                "admissionCapacity": 150,
+                "city": "Rajkot",
+                "hospitalBeds": 850,
+                "name": "Pandit Deendayal Upadhyay Medical College, Rajkot",
+                "ownership": "Govt.",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Rajkot",
+                "hospitalBeds": 850,
+                "name": "Pandit Deendayal Upadhyay Medical College, Rajkot",
+                "ownership": "Private",
+                "state": "Gujarat"
+            }
+        ],
+        "Surat": [
+            {
+                "admissionCapacity": 150,
+                "city": "Surat",
+                "hospitalBeds": 750,
+                "name": "Surat Municipal Institute of Medical Education & Research, Surat",
+                "ownership": "Govt.",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Surat",
+                "hospitalBeds": 1050,
+                "name": "Government Medical College, Surat",
+                "ownership": "Govt.",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Surat",
+                "hospitalBeds": 1050,
+                "name": "Government Medical College, Surat",
+                "ownership": "Govt.",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Surat",
+                "hospitalBeds": 750,
+                "name": "Surat Municipal Institute of Medical Education & Research, Surat",
+                "ownership": null,
+                "state": "Gujarat"
+            }
+        ],
+        "Surendra Nagar": [
+            {
+                "admissionCapacity": 100,
+                "city": "Surendra Nagar",
+                "hospitalBeds": 570,
+                "name": "CU Shah Medical College, Surendra Nagar",
+                "ownership": "Trust",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Surendra Nagar",
+                "hospitalBeds": 570,
+                "name": "CU Shah Medical College, Surendra Nagar",
+                "ownership": "Trust",
+                "state": "Gujarat"
+            }
+        ],
+        "Vadodara": [
+            {
+                "admissionCapacity": 150,
+                "city": "Vadodara",
+                "hospitalBeds": 550,
+                "name": "Parul Institute of Medical Sciences & Research, Vadodara",
+                "ownership": "Private",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Vadodara",
+                "hospitalBeds": 415,
+                "name": "GMERS Medical College, Gotri, Vadodara",
+                "ownership": "Govt-Society",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Vadodara",
+                "hospitalBeds": 415,
+                "name": "GMERS Medical College, Gotri, Vadodara",
+                "ownership": "Govt-Society",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Vadodara",
+                "hospitalBeds": 550,
+                "name": "Parul Institute of Medical Sciences & Research, Vadodara",
+                "ownership": "Trust",
+                "state": "Gujarat"
+            }
+        ],
+        "Vadodra": [
+            {
+                "admissionCapacity": 150,
+                "city": "Vadodra",
+                "hospitalBeds": 1120,
+                "name": "SBKS Medical Inst. & Research Centre, Vadodra",
+                "ownership": "Trust",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Vadodra",
+                "hospitalBeds": 1120,
+                "name": "SBKS Medical Inst. & Research Centre, Vadodra",
+                "ownership": "Govt.",
+                "state": "Gujarat"
+            }
+        ],
+        "Valsad": [
+            {
+                "admissionCapacity": 150,
+                "city": "Valsad",
+                "hospitalBeds": 300,
+                "name": "GMERS Medical College, Valsad",
+                "ownership": "Govt-Society",
+                "state": "Gujarat"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Valsad",
+                "hospitalBeds": 300,
+                "name": "GMERS Medical College, Valsad",
+                "ownership": "Govt-Society",
+                "state": "Gujarat"
+            }
+        ]
+    },
+    "Haryana": {
+        "Agroha": [
+            {
+                "admissionCapacity": 100,
+                "city": "Agroha",
+                "hospitalBeds": 450,
+                "name": "Maharaja Agrasen Medical College, Agroha",
+                "ownership": "Trust",
+                "state": "Haryana"
+            }
+        ],
+        "Ambala": [
+            {
+                "admissionCapacity": 150,
+                "city": "Ambala",
+                "hospitalBeds": 1063,
+                "name": "Maharishi Markandeshwar Instt. of Med. Sci. & Resh., Mullana, Ambala",
+                "ownership": "Trust",
+                "state": "Haryana"
+            }
+        ],
+        "Faridabad": [
+            {
+                "admissionCapacity": 100,
+                "city": "Faridabad",
+                "hospitalBeds": 0,
+                "name": "Employees State Insurance Corporation Medical College, Faridabad",
+                "ownership": "Govt.",
+                "state": "Haryana"
+            }
+        ],
+        "Gurgaon": [
+            {
+                "admissionCapacity": 150,
+                "city": "Gurgaon",
+                "hospitalBeds": 0,
+                "name": "Faculty of Medicine and Health Sciences, Gurgaon",
+                "ownership": "Trust",
+                "state": "Haryana"
+            }
+        ],
+        "Jhajjar": [
+            {
+                "admissionCapacity": 0,
+                "city": "Jhajjar",
+                "hospitalBeds": 0,
+                "name": "World College of Medical Sciences & Research, Jhajjar",
+                "ownership": "Trust",
+                "state": "Haryana"
+            }
+        ],
+        "Karnal": [
+            {
+                "admissionCapacity": 100,
+                "city": "Karnal",
+                "hospitalBeds": 0,
+                "name": "Kalpana Chawala Govt. Medical College, Karnal",
+                "ownership": "Govt.",
+                "state": "Haryana"
+            }
+        ],
+        "Nalhar": [
+            {
+                "admissionCapacity": 100,
+                "city": "Nalhar",
+                "hospitalBeds": 500,
+                "name": "Shaheed Hasan Khan Mewati Government Medical College, Nalhar",
+                "ownership": "Govt.",
+                "state": "Haryana"
+            }
+        ],
+        "Panipath": [
+            {
+                "admissionCapacity": 0,
+                "city": "Panipath",
+                "hospitalBeds": 0,
+                "name": "N.C. Medical College & Hospital, Panipath",
+                "ownership": "Trust",
+                "state": "Haryana"
+            }
+        ],
+        "Rohtak": [
+            {
+                "admissionCapacity": 200,
+                "city": "Rohtak",
+                "hospitalBeds": 1710,
+                "name": "Pt. B D Sharma Postgraduate Inst. of Medical Sciences, Rohtak (Haryana)",
+                "ownership": "Govt.",
+                "state": "Haryana"
+            }
+        ],
+        "Sahabad": [
+            {
+                "admissionCapacity": 150,
+                "city": "Sahabad",
+                "hospitalBeds": 0,
+                "name": "Adesh Medical College and Hospital, Sahabad, Kurushetra",
+                "ownership": "society",
+                "state": "Haryana"
+            }
+        ],
+        "Sonepat": [
+            {
+                "admissionCapacity": 100,
+                "city": "Sonepat",
+                "hospitalBeds": 500,
+                "name": "BPS Government Medical College for Women, Sonepat",
+                "ownership": "Govt.",
+                "state": "Haryana"
+            }
+        ]
+    },
+    "Himachal Pradesh": {
+        "Chamba": [
+            {
+                "admissionCapacity": 100,
+                "city": "Chamba",
+                "hospitalBeds": 0,
+                "name": "Pt.Jawahar Lal Nehru Govt. Medicalcollege, Chamba",
+                "ownership": "Govt.",
+                "state": "Himachal Pradesh"
+            }
+        ],
+        "Mandi": [
+            {
+                "admissionCapacity": 100,
+                "city": "Mandi",
+                "hospitalBeds": 0,
+                "name": "Shri Lal Bahadur Shastri Govt. Medical College, Mandi",
+                "ownership": "Govt.",
+                "state": "Himachal Pradesh"
+            }
+        ],
+        "Shimla": [
+            {
+                "admissionCapacity": 100,
+                "city": "Shimla",
+                "hospitalBeds": 835,
+                "name": "Indira Gandhi Medical College, Shimla",
+                "ownership": "Govt.",
+                "state": "Himachal Pradesh"
+            }
+        ],
+        "Sirmour": [
+            {
+                "admissionCapacity": 100,
+                "city": "Sirmour",
+                "hospitalBeds": 300,
+                "name": "Government Medical College, Nahan, Sirmour",
+                "ownership": "Govt.",
+                "state": "Himachal Pradesh"
+            }
+        ],
+        "Solan": [
+            {
+                "admissionCapacity": 150,
+                "city": "Solan",
+                "hospitalBeds": 300,
+                "name": "Maharishi Markandeshwar Medical College & Hospital, Solan",
+                "ownership": "Trust",
+                "state": "Himachal Pradesh"
+            }
+        ],
+        "Tanda,": [
+            {
+                "admissionCapacity": 100,
+                "city": "Tanda,",
+                "hospitalBeds": 593,
+                "name": "Dr. Rajendar Prasad Government Medical College, Tanda, H.P",
+                "ownership": "Govt.",
+                "state": "Himachal Pradesh"
+            }
+        ]
+    },
+    "Jammu & Kashmir": {
+        "Jammu": [
+            {
+                "admissionCapacity": 100,
+                "city": "Jammu",
+                "hospitalBeds": 500,
+                "name": "Acharya Shri Chander College of Medical Sciences, Jammu",
+                "ownership": "Trust",
+                "state": "Jammu & Kashmir"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Jammu",
+                "hospitalBeds": 2295,
+                "name": "Government Medical College, Jammu",
+                "ownership": "Govt.",
+                "state": "Jammu & Kashmir"
+            }
+        ],
+        "Srinagar": [
+            {
+                "admissionCapacity": 150,
+                "city": "Srinagar",
+                "hospitalBeds": 2550,
+                "name": "Government Medical College, Srinagar",
+                "ownership": "Govt.",
+                "state": "Jammu & Kashmir"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Srinagar",
+                "hospitalBeds": 250,
+                "name": "Sher-I-Kashmir Instt. Of Medical Sciences, Srinagar",
+                "ownership": "Govt.",
+                "state": "Jammu & Kashmir"
+            }
+        ]
+    },
+    "Jharkhand": {
+        "Dhanbad": [
+            {
+                "admissionCapacity": 50,
+                "city": "Dhanbad",
+                "hospitalBeds": 500,
+                "name": "Patliputra Medical College, Dhanbad",
+                "ownership": "Govt.",
+                "state": "Jharkhand"
+            }
+        ],
+        "Jamshedpur": [
+            {
+                "admissionCapacity": 100,
+                "city": "Jamshedpur",
+                "hospitalBeds": 514,
+                "name": "M G M Medical College, Jamshedpur",
+                "ownership": "Govt.",
+                "state": "Jharkhand"
+            }
+        ],
+        "Ranchi": [
+            {
+                "admissionCapacity": 150,
+                "city": "Ranchi",
+                "hospitalBeds": 1500,
+                "name": "Rajendra Institute of Medical Sciences, Ranchi",
+                "ownership": "Govt.",
+                "state": "Jharkhand"
+            }
+        ]
+    },
+    "Karnataka": {
+        "Bagalkot": [
+            {
+                "admissionCapacity": 150,
+                "city": "Bagalkot",
+                "hospitalBeds": 820,
+                "name": "S. Nijalingappa Med. College & HSK Hospital & Research Centre, Bagalkot",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            }
+        ],
+        "Bangalore": [
+            {
+                "admissionCapacity": 250,
+                "city": "Bangalore",
+                "hospitalBeds": 1475,
+                "name": "Bangalore Medical College and Research Institute, Bangalore",
+                "ownership": "Govt.",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Bangalore",
+                "hospitalBeds": 300,
+                "name": "BGS Global Institute of Medical Sciences, Bangalore",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Bangalore",
+                "hospitalBeds": 600,
+                "name": "Dr BR Ambedkar Medical College, Bangalore",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Bangalore",
+                "hospitalBeds": 500,
+                "name": "Employees State Insurance Corporation Medical College, Bangalore",
+                "ownership": "Govt.",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 120,
+                "city": "Bangalore",
+                "hospitalBeds": 1100,
+                "name": "Kempegowda Institute of Medical Sciences, Bangalore",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Bangalore",
+                "hospitalBeds": 1331,
+                "name": "M S Ramaiah Medical College, Bangalore",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Bangalore",
+                "hospitalBeds": 900,
+                "name": "MVJ Medical College and Research Hospital, Bangalore",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 250,
+                "city": "Bangalore",
+                "hospitalBeds": 1110,
+                "name": "Rajarajeswari Medical College & Hospital, Bangalore",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Bangalore",
+                "hospitalBeds": 640,
+                "name": "Sapthagiri Institute of Medical Sciences & Research Centre, Bangalore",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Bangalore",
+                "hospitalBeds": 1200,
+                "name": "St. Johns Medical College, Bangalore",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Bangalore",
+                "hospitalBeds": 0,
+                "name": "The Oxford Medical College, Hospital & Research Centre, Bangalore",
+                "ownership": "Society",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 250,
+                "city": "Bangalore",
+                "hospitalBeds": 1100,
+                "name": "Vydehi Institute Of Medical Sciences & Research Centre, Bangalore",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            }
+        ],
+        "Banglore": [
+            {
+                "admissionCapacity": 150,
+                "city": "Banglore",
+                "hospitalBeds": 0,
+                "name": "Akash Institute of Medical Sciences & Research Centre, Banglore",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Banglore",
+                "hospitalBeds": 0,
+                "name": "East Point College of Medical Sciences & Research Centre, Banglore",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            }
+        ],
+        "Belagavi": [
+            {
+                "admissionCapacity": 150,
+                "city": "Belagavi",
+                "hospitalBeds": 740,
+                "name": "Belagavi Institute of Medical Sciences, Belgaum",
+                "ownership": "Govt.",
+                "state": "Karnataka"
+            }
+        ],
+        "Belgaum": [
+            {
+                "admissionCapacity": 200,
+                "city": "Belgaum",
+                "hospitalBeds": 2200,
+                "name": "Jawaharlal Nehru Medical College, Belgaum",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            }
+        ],
+        "Bellary": [
+            {
+                "admissionCapacity": 150,
+                "city": "Bellary",
+                "hospitalBeds": 1017,
+                "name": "Vijaynagar Institute of Medical Sciences, Bellary",
+                "ownership": "Govt.",
+                "state": "Karnataka"
+            }
+        ],
+        "Bellur": [
+            {
+                "admissionCapacity": 150,
+                "city": "Bellur",
+                "hospitalBeds": 750,
+                "name": "Adichunchanagiri Institute of Medical Sciences Bellur",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            }
+        ],
+        "Bidar": [
+            {
+                "admissionCapacity": 150,
+                "city": "Bidar",
+                "hospitalBeds": 500,
+                "name": "Bidar Institute of Medical Sciences,Bidar",
+                "ownership": "Govt.",
+                "state": "Karnataka"
+            }
+        ],
+        "Bijapur": [
+            {
+                "admissionCapacity": 100,
+                "city": "Bijapur",
+                "hospitalBeds": 760,
+                "name": "Al-Ameen Medical College,Bijapur",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Bijapur",
+                "hospitalBeds": 797,
+                "name": "Shri B M Patil Medical College, Hospital & Research Centre, Bijapur",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            }
+        ],
+        "Chamrajanagar": [
+            {
+                "admissionCapacity": 150,
+                "city": "Chamrajanagar",
+                "hospitalBeds": 0,
+                "name": "Chamrajanagar Institute of Medical Sciences,",
+                "ownership": "Govt.",
+                "state": "Karnataka"
+            }
+        ],
+        "Chitradurga": [
+            {
+                "admissionCapacity": 100,
+                "city": "Chitradurga",
+                "hospitalBeds": 628,
+                "name": "Basaveswara Medical College and Hospital, Chitradurga",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            }
+        ],
+        "Davangere": [
+            {
+                "admissionCapacity": 245,
+                "city": "Davangere",
+                "hospitalBeds": 2069,
+                "name": "JJM Medical College, Davangere",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Davangere",
+                "hospitalBeds": 930,
+                "name": "S S Institute of Medical Sciences& Research Centre, Davangere",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            }
+        ],
+        "Dharwad": [
+            {
+                "admissionCapacity": 100,
+                "city": "Dharwad",
+                "hospitalBeds": 700,
+                "name": "SDM Medical Siences & HospitalCollege , Sattur, Dharwad",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            }
+        ],
+        "Gadag": [
+            {
+                "admissionCapacity": 150,
+                "city": "Gadag",
+                "hospitalBeds": 0,
+                "name": "Gadag Inst. of Medical Sciences, Mallasamudra, Mulgund Road, Gadag",
+                "ownership": "Govt.",
+                "state": "Karnataka"
+            }
+        ],
+        "Gulbarga": [
+            {
+                "admissionCapacity": 100,
+                "city": "Gulbarga",
+                "hospitalBeds": 0,
+                "name": "Employees State Insurance Corporation Medical College, Gulbarga",
+                "ownership": "Govt.",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Gulbarga",
+                "hospitalBeds": 0,
+                "name": "Gulbarga Institute of Medical Sciences, Gulbarga",
+                "ownership": "Govt.",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Gulbarga",
+                "hospitalBeds": 540,
+                "name": "Khaja Banda Nawaz Institute of Medical Sciences, Gulbarga",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Gulbarga",
+                "hospitalBeds": 1073,
+                "name": "Mahadevappa Rampure Medical College, Gulbarga",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            }
+        ],
+        "Hassan": [
+            {
+                "admissionCapacity": 150,
+                "city": "Hassan",
+                "hospitalBeds": 500,
+                "name": "Hassan Institute of Medical Sciences, Hassan",
+                "ownership": "Govt.",
+                "state": "Karnataka"
+            }
+        ],
+        "Hubli": [
+            {
+                "admissionCapacity": 200,
+                "city": "Hubli",
+                "hospitalBeds": 1200,
+                "name": "Karnataka Institute of Medical Sciences, Hubli",
+                "ownership": "Govt.",
+                "state": "Karnataka"
+            }
+        ],
+        "Karwar": [
+            {
+                "admissionCapacity": 150,
+                "city": "Karwar",
+                "hospitalBeds": 0,
+                "name": "Karwar Institute of Medical Sciences, Karwar",
+                "ownership": "Govt.",
+                "state": "Karnataka"
+            }
+        ],
+        "Kodagu": [
+            {
+                "admissionCapacity": 150,
+                "city": "Kodagu",
+                "hospitalBeds": 0,
+                "name": "Kodagu Institute of Medical Sciences, Kodagu",
+                "ownership": "Govt.",
+                "state": "Karnataka"
+            }
+        ],
+        "Kolar": [
+            {
+                "admissionCapacity": 0,
+                "city": "Kolar",
+                "hospitalBeds": 0,
+                "name": "Sambhram Institute of Medical Sciences & Research, Kolar",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Kolar",
+                "hospitalBeds": 1139,
+                "name": "Sri Devaraj URS Medical College, Kolar",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            }
+        ],
+        "Koppal": [
+            {
+                "admissionCapacity": 150,
+                "city": "Koppal",
+                "hospitalBeds": 0,
+                "name": "Koppal Institute of Medical Sciences, Koppal",
+                "ownership": "Govt.",
+                "state": "Karnataka"
+            }
+        ],
+        "Mandya": [
+            {
+                "admissionCapacity": 150,
+                "city": "Mandya",
+                "hospitalBeds": 580,
+                "name": "Mandya Institute of Medical Sciences, Mandya",
+                "ownership": "Govt.",
+                "state": "Karnataka"
+            }
+        ],
+        "Mangalore": [
+            {
+                "admissionCapacity": 150,
+                "city": "Mangalore",
+                "hospitalBeds": 900,
+                "name": "A J Institute of Medical Sciences & Research Centre, Mangalore",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Mangalore",
+                "hospitalBeds": 1250,
+                "name": "Father Mullers Institue of Medical Education and Research, Mangalore",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Mangalore",
+                "hospitalBeds": 1200,
+                "name": "K S Hegde Medical Academy, Mangalore",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Mangalore",
+                "hospitalBeds": 0,
+                "name": "Kanachur Institute of Medical Sciences, Manglore",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 250,
+                "city": "Mangalore",
+                "hospitalBeds": 1280,
+                "name": "Kasturba Medical College, Mangalore",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Mangalore",
+                "hospitalBeds": 929,
+                "name": "Yenepoya Medical College, Mangalore",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            }
+        ],
+        "Manipal": [
+            {
+                "admissionCapacity": 250,
+                "city": "Manipal",
+                "hospitalBeds": 2032,
+                "name": "Kasturba Medical College, Manipal",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            }
+        ],
+        "Mysore": [
+            {
+                "admissionCapacity": 150,
+                "city": "Mysore",
+                "hospitalBeds": 1940,
+                "name": "Government Medical College, Mysore",
+                "ownership": "Govt.",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 200,
+                "city": "Mysore",
+                "hospitalBeds": 1050,
+                "name": "JSS Medical College, Mysore",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            }
+        ],
+        "Raichur": [
+            {
+                "admissionCapacity": 150,
+                "city": "Raichur",
+                "hospitalBeds": 860,
+                "name": "Navodaya Medical College, Raichur",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Raichur",
+                "hospitalBeds": 550,
+                "name": "Raichur Institute of Medical Sciences,Raichur",
+                "ownership": "Govt.",
+                "state": "Karnataka"
+            }
+        ],
+        "Shimoga": [
+            {
+                "admissionCapacity": 150,
+                "city": "Shimoga",
+                "hospitalBeds": 650,
+                "name": "Shimoga Institute of Medical Sciences,Shimoga",
+                "ownership": "Govt.",
+                "state": "Karnataka"
+            }
+        ],
+        "Shimoga,": [
+            {
+                "admissionCapacity": 150,
+                "city": "Shimoga,",
+                "hospitalBeds": 345,
+                "name": "Subbaiah Institute of Medical Sciences, Shimoga, Karnataka",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            }
+        ],
+        "Srinivasnagar": [
+            {
+                "admissionCapacity": 150,
+                "city": "Srinivasnagar",
+                "hospitalBeds": 501,
+                "name": "Srinivas Institute of Medical Research Centre, Srinivasnagar",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            }
+        ],
+        "Sullia": [
+            {
+                "admissionCapacity": 100,
+                "city": "Sullia",
+                "hospitalBeds": 570,
+                "name": "K V G Medical College, Sullia",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            }
+        ],
+        "Tumkur": [
+            {
+                "admissionCapacity": 150,
+                "city": "Tumkur",
+                "hospitalBeds": 300,
+                "name": "Shridevi Institute of Medical Sciences & Research Hospital, Tumkur",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            },
+            {
+                "admissionCapacity": 130,
+                "city": "Tumkur",
+                "hospitalBeds": 1100,
+                "name": "Sri Siddhartha Medical College, Tumkur",
+                "ownership": "Trust",
+                "state": "Karnataka"
+            }
+        ]
+    },
+    "Kerala": {
+        "Alleppey": [
+            {
+                "admissionCapacity": 150,
+                "city": "Alleppey",
+                "hospitalBeds": 1051,
+                "name": "T D Medical College, Alleppey (Allappuzha)",
+                "ownership": "Govt.",
+                "state": "Kerala"
+            }
+        ],
+        "Calicut": [
+            {
+                "admissionCapacity": 250,
+                "city": "Calicut",
+                "hospitalBeds": 3080,
+                "name": "Government Medical College, Kozhikode, Calicut",
+                "ownership": "Govt.",
+                "state": "Kerala"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Calicut",
+                "hospitalBeds": 500,
+                "name": "KMCT Medical College,Kozhikode, Calicut",
+                "ownership": "Trust",
+                "state": "Kerala"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Calicut",
+                "hospitalBeds": 415,
+                "name": "Malabar Medical College, Kozhikode,Calicut",
+                "ownership": "Trust",
+                "state": "Kerala"
+            }
+        ],
+        "Ernakulam": [
+            {
+                "admissionCapacity": 100,
+                "city": "Ernakulam",
+                "hospitalBeds": 0,
+                "name": "Government Medical College, Ernakulam",
+                "ownership": "Govt",
+                "state": "Kerala"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Ernakulam",
+                "hospitalBeds": 500,
+                "name": "Sree Narayana Instt. of Medical Sciences, Chalakka,Ernakulam",
+                "ownership": "Trust",
+                "state": "Kerala"
+            }
+        ],
+        "Idukki": [
+            {
+                "admissionCapacity": 0,
+                "city": "Idukki",
+                "hospitalBeds": 300,
+                "name": "Government Medical College, Painav, Idukki",
+                "ownership": "Govt.",
+                "state": "Kerala"
+            }
+        ],
+        "Kannur": [
+            {
+                "admissionCapacity": 100,
+                "city": "Kannur",
+                "hospitalBeds": 1200,
+                "name": "Academy of Medical Sciences,Pariyaram, Kannur",
+                "ownership": "Trust",
+                "state": "Kerala"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Kannur",
+                "hospitalBeds": 750,
+                "name": "Kannur Medical College, Kannur",
+                "ownership": "Trust",
+                "state": "Kerala"
+            }
+        ],
+        "Kochi": [
+            {
+                "admissionCapacity": 100,
+                "city": "Kochi",
+                "hospitalBeds": 1250,
+                "name": "Amrita School of Medicine, Elamkara, Kochi",
+                "ownership": "Trust",
+                "state": "Kerala"
+            }
+        ],
+        "Kolenchery": [
+            {
+                "admissionCapacity": 100,
+                "city": "Kolenchery",
+                "hospitalBeds": 1200,
+                "name": "Malankara Orthodox Syrian Church Medical College, Kolenchery",
+                "ownership": "Trust",
+                "state": "Kerala"
+            }
+        ],
+        "Kollam": [
+            {
+                "admissionCapacity": 100,
+                "city": "Kollam",
+                "hospitalBeds": 500,
+                "name": "Azeezia Instt of Medical Science,Meeyannoor,Kollam",
+                "ownership": "Trust",
+                "state": "Kerala"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Kollam",
+                "hospitalBeds": 0,
+                "name": "Government Medical College, Parippally, Kollam",
+                "ownership": "Govt.",
+                "state": "Kerala"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Kollam",
+                "hospitalBeds": 500,
+                "name": "Travancore Medical College, Kollam",
+                "ownership": "Trust",
+                "state": "Kerala"
+            }
+        ],
+        "Kottayam": [
+            {
+                "admissionCapacity": 150,
+                "city": "Kottayam",
+                "hospitalBeds": 910,
+                "name": "Government Medical College, Kottayam",
+                "ownership": "Govt.",
+                "state": "Kerala"
+            }
+        ],
+        "Malappuram": [
+            {
+                "admissionCapacity": 100,
+                "city": "Malappuram",
+                "hospitalBeds": 630,
+                "name": "M E S Medical College , Perintalmanna Malappuram Distt.Kerala",
+                "ownership": "Trust",
+                "state": "Kerala"
+            }
+        ],
+        "Malapuram": [
+            {
+                "admissionCapacity": 100,
+                "city": "Malapuram",
+                "hospitalBeds": 501,
+                "name": "Government Medical College, Manjeri, Malapuram Dist.",
+                "ownership": "Govt.",
+                "state": "Kerala"
+            }
+        ],
+        "Palakkad": [
+            {
+                "admissionCapacity": 100,
+                "city": "Palakkad",
+                "hospitalBeds": 750,
+                "name": "Govt Medical College, Yakkara, Palakkad",
+                "ownership": "Govt.",
+                "state": "Kerala"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Palakkad",
+                "hospitalBeds": 500,
+                "name": "Karuna Medical College, Palakkad",
+                "ownership": "Trust",
+                "state": "Kerala"
+            },
+            {
+                "admissionCapacity": 0,
+                "city": "Palakkad",
+                "hospitalBeds": 0,
+                "name": "Kerala Medical College, Mangode, Palakkad",
+                "ownership": "Trust",
+                "state": "Kerala"
+            }
+        ],
+        "Palakkad,": [
+            {
+                "admissionCapacity": 150,
+                "city": "Palakkad,",
+                "hospitalBeds": 0,
+                "name": "P K Das Institute of Medical Sciences, Palakkad, Kerala",
+                "ownership": "Trust",
+                "state": "Kerala"
+            }
+        ],
+        "Pathanamthitta": [
+            {
+                "admissionCapacity": 0,
+                "city": "Pathanamthitta",
+                "hospitalBeds": 0,
+                "name": "Mount Zion Medical College, Chayalode, Ezhamkulam Adoor, Pathanamthitta",
+                "ownership": "Society",
+                "state": "Kerala"
+            }
+        ],
+        "Thiruvalla": [
+            {
+                "admissionCapacity": 100,
+                "city": "Thiruvalla",
+                "hospitalBeds": 0,
+                "name": "Belivers Church Medical College Hospital, Thiruvalla",
+                "ownership": "Trust",
+                "state": "Kerala"
+            }
+        ],
+        "Thiruvananthapuram": [
+            {
+                "admissionCapacity": 150,
+                "city": "Thiruvananthapuram",
+                "hospitalBeds": 550,
+                "name": "Dr. Somervel Memorial CSI Hospital & Medical College, Karakonam, Thiruvananthapuram",
+                "ownership": "Trust",
+                "state": "Kerala"
+            },
+            {
+                "admissionCapacity": 200,
+                "city": "Thiruvananthapuram",
+                "hospitalBeds": 0,
+                "name": "Medical College, Thiruvananthapuram",
+                "ownership": "Govt.",
+                "state": "Kerala"
+            },
+            {
+                "admissionCapacity": 0,
+                "city": "Thiruvananthapuram",
+                "hospitalBeds": 0,
+                "name": "S.R. Medical College & Research Centre, Akathumjuri, Vennicode, Varkala, Thiruvananthapuram",
+                "ownership": "Trust",
+                "state": "Kerala"
+            }
+        ],
+        "Thodupuzha": [
+            {
+                "admissionCapacity": 0,
+                "city": "Thodupuzha",
+                "hospitalBeds": 380,
+                "name": "Al-Azhar Medical College and Super Speciality Hospital, Thodupuzha",
+                "ownership": "Trust",
+                "state": "Kerala"
+            }
+        ],
+        "Thrissur": [
+            {
+                "admissionCapacity": 100,
+                "city": "Thrissur",
+                "hospitalBeds": 570,
+                "name": "Amala Institute of Medical Sciences, Thrissur",
+                "ownership": "Trust",
+                "state": "Kerala"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Thrissur",
+                "hospitalBeds": 2350,
+                "name": "Government Medical College, Thrissur",
+                "ownership": "Govt.",
+                "state": "Kerala"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Thrissur",
+                "hospitalBeds": 1620,
+                "name": "Jubilee Mission Medical College & Research Institute, Thrissur",
+                "ownership": "Trust",
+                "state": "Kerala"
+            }
+        ],
+        "Tiruvalla": [
+            {
+                "admissionCapacity": 100,
+                "city": "Tiruvalla",
+                "hospitalBeds": 1200,
+                "name": "Pushpagiri Institute Of Medical Sciences and Research Centre, Tiruvalla",
+                "ownership": "Trust",
+                "state": "Kerala"
+            }
+        ],
+        "Trivandrum": [
+            {
+                "admissionCapacity": 100,
+                "city": "Trivandrum",
+                "hospitalBeds": 500,
+                "name": "Sree Uthradom Thiurnal Academy of Medical Sciences,Trivandrum",
+                "ownership": "Trust",
+                "state": "Kerala"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Trivandrum",
+                "hospitalBeds": 600,
+                "name": "Sri Gokulam Medical College Trust & Research Foundation, Trivandrum",
+                "ownership": "Trust",
+                "state": "Kerala"
+            }
+        ],
+        "Wayanad": [
+            {
+                "admissionCapacity": 0,
+                "city": "Wayanad",
+                "hospitalBeds": 0,
+                "name": "DM Wayanad Institute of Medical Sciences, Wayanad, Kerala",
+                "ownership": "Trust",
+                "state": "Kerala"
+            }
+        ]
+    },
+    "Madhya Pradesh": {
+        "Bhopal": [
+            {
+                "admissionCapacity": 0,
+                "city": "Bhopal",
+                "hospitalBeds": 0,
+                "name": "Advance Institute of Medical Sciences and Research Centre, Bhopal",
+                "ownership": "Society",
+                "state": "Madhya Pradesh"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Bhopal",
+                "hospitalBeds": 0,
+                "name": "All India Institute of Medical Sciences, Bhopal",
+                "ownership": "Govt.",
+                "state": "Madhya Pradesh"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Bhopal",
+                "hospitalBeds": 1000,
+                "name": "Chirayu Medical College and Hospital, Bairagarh,Bhopal",
+                "ownership": "Trust",
+                "state": "Madhya Pradesh"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Bhopal",
+                "hospitalBeds": 1200,
+                "name": "Gandhi Medical College, Bhopal",
+                "ownership": "Govt.",
+                "state": "Madhya Pradesh"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Bhopal",
+                "hospitalBeds": 750,
+                "name": "L.N. Medical College and Research Centre,Bhopal",
+                "ownership": "Trust",
+                "state": "Madhya Pradesh"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Bhopal",
+                "hospitalBeds": 650,
+                "name": "Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",
+                "ownership": "Trust",
+                "state": "Madhya Pradesh"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Bhopal",
+                "hospitalBeds": 320,
+                "name": "RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",
+                "ownership": "Society",
+                "state": "Madhya Pradesh"
+            }
+        ],
+        "Dewas": [
+            {
+                "admissionCapacity": 150,
+                "city": "Dewas",
+                "hospitalBeds": 300,
+                "name": "Amaltas Institute of Medical Sciences, Dewas",
+                "ownership": "Society",
+                "state": "Madhya Pradesh"
+            }
+        ],
+        "Guna": [
+            {
+                "admissionCapacity": 0,
+                "city": "Guna",
+                "hospitalBeds": 300,
+                "name": "Sakshi Medical College & Research Centre, Guna",
+                "ownership": "Society",
+                "state": "Madhya Pradesh"
+            }
+        ],
+        "Gwalior": [
+            {
+                "admissionCapacity": 150,
+                "city": "Gwalior",
+                "hospitalBeds": 1100,
+                "name": "Gajra Raja Medical College, Gwalior",
+                "ownership": "Govt.",
+                "state": "Madhya Pradesh"
+            }
+        ],
+        "Indore": [
+            {
+                "admissionCapacity": 150,
+                "city": "Indore",
+                "hospitalBeds": 1100,
+                "name": "Index Medical College Hospital & Research Centre,Indore",
+                "ownership": "Trust",
+                "state": "Madhya Pradesh"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Indore",
+                "hospitalBeds": 1500,
+                "name": "M G M Medical College, Indore",
+                "ownership": "Govt.",
+                "state": "Madhya Pradesh"
+            },
+            {
+                "admissionCapacity": 0,
+                "city": "Indore",
+                "hospitalBeds": 300,
+                "name": "Modern Institute of Medical Sciences, Kanadia, Indore",
+                "ownership": "Society",
+                "state": "Madhya Pradesh"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Indore",
+                "hospitalBeds": 1140,
+                "name": "Sri Aurobindo Medical College and Post Graduate Institute , Indore",
+                "ownership": "Trust",
+                "state": "Madhya Pradesh"
+            }
+        ],
+        "Jabalpur": [
+            {
+                "admissionCapacity": 150,
+                "city": "Jabalpur",
+                "hospitalBeds": 819,
+                "name": "Netaji Subhash Chandra Bose Medical College, Jabalpur",
+                "ownership": "Govt.",
+                "state": "Madhya Pradesh"
+            },
+            {
+                "admissionCapacity": 0,
+                "city": "Jabalpur",
+                "hospitalBeds": 300,
+                "name": "Sukh Sagar Medical College and Hospital, Jabalpur",
+                "ownership": "Trust",
+                "state": "Madhya Pradesh"
+            }
+        ],
+        "Rewa": [
+            {
+                "admissionCapacity": 100,
+                "city": "Rewa",
+                "hospitalBeds": 1150,
+                "name": "Shyam Shah Medical College, Rewa",
+                "ownership": "Govt.",
+                "state": "Madhya Pradesh"
+            }
+        ],
+        "Sagar": [
+            {
+                "admissionCapacity": 100,
+                "city": "Sagar",
+                "hospitalBeds": 650,
+                "name": "Bundelkhand Medical College, Sagar",
+                "ownership": "Govt.",
+                "state": "Madhya Pradesh"
+            }
+        ],
+        "Ujjain": [
+            {
+                "admissionCapacity": 150,
+                "city": "Ujjain",
+                "hospitalBeds": 585,
+                "name": "Ruxmaniben Deepchand Gardi Medical College, Ujjain",
+                "ownership": "Trust",
+                "state": "Madhya Pradesh"
+            }
+        ]
+    },
+    "Maharastra": {
+        "Ahmednagar": [
+            {
+                "admissionCapacity": 150,
+                "city": "Ahmednagar",
+                "hospitalBeds": 0,
+                "name": "Padmashri Dr. Vithalrao Vikhe Patil Foundations Med. College ,Ahmednagar",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            }
+        ],
+        "Akola": [
+            {
+                "admissionCapacity": 150,
+                "city": "Akola",
+                "hospitalBeds": 0,
+                "name": "Government Medical College, Akola",
+                "ownership": "Govt.",
+                "state": "Maharastra"
+            }
+        ],
+        "Ambajogai": [
+            {
+                "admissionCapacity": 100,
+                "city": "Ambajogai",
+                "hospitalBeds": 0,
+                "name": "SRTR Medical College, Ambajogai",
+                "ownership": "Govt.",
+                "state": "Maharastra"
+            }
+        ],
+        "Amravati": [
+            {
+                "admissionCapacity": 100,
+                "city": "Amravati",
+                "hospitalBeds": 0,
+                "name": "Dr. Panjabrao Alias Bhausaheb Deshmukh Memorial Med. College ,Amravati",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            }
+        ],
+        "Aurangabad": [
+            {
+                "admissionCapacity": 150,
+                "city": "Aurangabad",
+                "hospitalBeds": 0,
+                "name": "Government Medical College, Aurangabad",
+                "ownership": "Govt.",
+                "state": "Maharastra"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Aurangabad",
+                "hospitalBeds": 0,
+                "name": "Mahatma Gandhi Missions Medical College, Aurangabad",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            }
+        ],
+        "Chandrapur": [
+            {
+                "admissionCapacity": 100,
+                "city": "Chandrapur",
+                "hospitalBeds": 0,
+                "name": "Government Medical College, Chandrapur",
+                "ownership": "Govt.",
+                "state": "Maharastra"
+            }
+        ],
+        "Dhule": [
+            {
+                "admissionCapacity": 0,
+                "city": "Dhule",
+                "hospitalBeds": 0,
+                "name": "ACPM Medical College, Dhule",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Dhule",
+                "hospitalBeds": 0,
+                "name": "Sri Bhausaheb Hire Government Medical College, Dhule",
+                "ownership": "Govt.",
+                "state": "Maharastra"
+            }
+        ],
+        "Gondia": [
+            {
+                "admissionCapacity": 100,
+                "city": "Gondia",
+                "hospitalBeds": 0,
+                "name": "Government Medical College, Gondia",
+                "ownership": "Govt.",
+                "state": "Maharastra"
+            }
+        ],
+        "Jalgaon": [
+            {
+                "admissionCapacity": 100,
+                "city": "Jalgaon",
+                "hospitalBeds": 0,
+                "name": "Dr. Ulhas Patil Medical College & Hospital, Jalgaon",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            }
+        ],
+        "Jalna": [
+            {
+                "admissionCapacity": 100,
+                "city": "Jalna",
+                "hospitalBeds": 0,
+                "name": "Indian Institute of Medical Science & Research, Jalna",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            }
+        ],
+        "Karad": [
+            {
+                "admissionCapacity": 200,
+                "city": "Karad",
+                "hospitalBeds": 0,
+                "name": "Krishna Institute of Medical Sciences, Karad",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            }
+        ],
+        "Kolhapur": [
+            {
+                "admissionCapacity": 150,
+                "city": "Kolhapur",
+                "hospitalBeds": 0,
+                "name": "Dr. D Y Patil Medical College, Kolhapur",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Kolhapur",
+                "hospitalBeds": 0,
+                "name": "Rajashree Chatrapati Shahu Maharaj Government Medical College, Kolhapur",
+                "ownership": "Govt.",
+                "state": "Maharastra"
+            }
+        ],
+        "Latur": [
+            {
+                "admissionCapacity": 150,
+                "city": "Latur",
+                "hospitalBeds": 0,
+                "name": "Government Medical College , Latur",
+                "ownership": "Govt.",
+                "state": "Maharastra"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Latur",
+                "hospitalBeds": 0,
+                "name": "Maharashtra Institute of Medical Sciences & Research, Latur",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            }
+        ],
+        "Loni": [
+            {
+                "admissionCapacity": 200,
+                "city": "Loni",
+                "hospitalBeds": 0,
+                "name": "Rural Medical College, Loni",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            }
+        ],
+        "Miraj": [
+            {
+                "admissionCapacity": 150,
+                "city": "Miraj",
+                "hospitalBeds": 0,
+                "name": "Government Medical College, Miraj",
+                "ownership": "Govt.",
+                "state": "Maharastra"
+            }
+        ],
+        "Mumbai": [
+            {
+                "admissionCapacity": 200,
+                "city": "Mumbai",
+                "hospitalBeds": 0,
+                "name": "Grant Medical College, Mumbai",
+                "ownership": "Govt.",
+                "state": "Maharastra"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Mumbai",
+                "hospitalBeds": 0,
+                "name": "H.B.T. Medical College and Dr. R.N. Cooper Municipal General Hospital, Juhu, Mumbai",
+                "ownership": "Govt.",
+                "state": "Maharastra"
+            },
+            {
+                "admissionCapacity": 50,
+                "city": "Mumbai",
+                "hospitalBeds": 0,
+                "name": "KJ Somaiyya Medical College & Research Centre, Mumbai",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Mumbai",
+                "hospitalBeds": 0,
+                "name": "Lokmanya Tilak Municipal Medical College, Sion, Mumbai",
+                "ownership": "Govt.",
+                "state": "Maharastra"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Mumbai",
+                "hospitalBeds": 0,
+                "name": "Mahatma Gandhi Missions Medical College, Navi Mumbai",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            },
+            {
+                "admissionCapacity": 180,
+                "city": "Mumbai",
+                "hospitalBeds": 0,
+                "name": "Seth GS Medical College, Mumbai",
+                "ownership": "Govt.",
+                "state": "Maharastra"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Mumbai",
+                "hospitalBeds": 0,
+                "name": "Terna Medical College, Navi Mumbai",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            },
+            {
+                "admissionCapacity": 120,
+                "city": "Mumbai",
+                "hospitalBeds": 0,
+                "name": "Topiwala National Medical College, Mumbai",
+                "ownership": "Govt.",
+                "state": "Maharastra"
+            }
+        ],
+        "Nagpur": [
+            {
+                "admissionCapacity": 200,
+                "city": "Nagpur",
+                "hospitalBeds": 0,
+                "name": "Government Medical College, Nagpur",
+                "ownership": "Govt.",
+                "state": "Maharastra"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Nagpur",
+                "hospitalBeds": 0,
+                "name": "Indira Gandhi Medical College & Hospital, Nagpur",
+                "ownership": "Govt.",
+                "state": "Maharastra"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Nagpur",
+                "hospitalBeds": 0,
+                "name": "N. K. P. Salve Instt. of Medical Sciences and Research Centre and Lata",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            }
+        ],
+        "Nanded": [
+            {
+                "admissionCapacity": 100,
+                "city": "Nanded",
+                "hospitalBeds": 0,
+                "name": "Dr. Shankarrao Chavan Govt. Medical College, Nanded",
+                "ownership": "Govt.",
+                "state": "Maharastra"
+            }
+        ],
+        "Nashik": [
+            {
+                "admissionCapacity": 150,
+                "city": "Nashik",
+                "hospitalBeds": 0,
+                "name": "SMBT Institute of Medical Sciences & Research Centre, Nandihills, Nashik",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            }
+        ],
+        "Nasik": [
+            {
+                "admissionCapacity": 120,
+                "city": "Nasik",
+                "hospitalBeds": 0,
+                "name": "Dr.Vasantrao Pawar Med. Col. Hosp. & Research Centre, Nasik (Prev. NDMVP Samaj Medical College)",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            }
+        ],
+        "Navi Mumbai": [
+            {
+                "admissionCapacity": 250,
+                "city": "Navi Mumbai",
+                "hospitalBeds": 0,
+                "name": "Padmashree Dr. D.Y.Patil Medical College, Navi Mumbai",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            }
+        ],
+        "Palghar": [
+            {
+                "admissionCapacity": 150,
+                "city": "Palghar",
+                "hospitalBeds": 0,
+                "name": "Medical Sciences, Palghar",
+                "ownership": "Private",
+                "state": "Maharastra"
+            }
+        ],
+        "Pune": [
+            {
+                "admissionCapacity": 140,
+                "city": "Pune",
+                "hospitalBeds": 0,
+                "name": "Armed Forces Medical College, Pune",
+                "ownership": "Govt.",
+                "state": "Maharastra"
+            },
+            {
+                "admissionCapacity": 200,
+                "city": "Pune",
+                "hospitalBeds": 0,
+                "name": "B. J. Govt. Medical College, Pune",
+                "ownership": "Govt.",
+                "state": "Maharastra"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Pune",
+                "hospitalBeds": 0,
+                "name": "Bharati Vidyapeeth University Medical College, Pune",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            },
+            {
+                "admissionCapacity": 250,
+                "city": "Pune",
+                "hospitalBeds": 0,
+                "name": "Dr. D. Y. Patil Med. college, Hospital and Research Centre, Pimpri, Pune",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Pune",
+                "hospitalBeds": 0,
+                "name": "Maharashtra Institute of Medical Education & Research, Talegaon, Pune",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Pune",
+                "hospitalBeds": 0,
+                "name": "Smt. Kashibai Navale Medical College and General Hospital,Pune",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            }
+        ],
+        "Ratnagiri": [
+            {
+                "admissionCapacity": 100,
+                "city": "Ratnagiri",
+                "hospitalBeds": 0,
+                "name": "B.K.L Walawalkar Rural Medical College, Ratnagiri",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            }
+        ],
+        "Sangli": [
+            {
+                "admissionCapacity": 150,
+                "city": "Sangli",
+                "hospitalBeds": 0,
+                "name": "Bharati Vidyapeeth Deemed University Medical College & Hospital, Sangli",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            }
+        ],
+        "Solapur": [
+            {
+                "admissionCapacity": 100,
+                "city": "Solapur",
+                "hospitalBeds": 0,
+                "name": "Ashwini Rural Medical College, Hospital & Research Centre, Solapur",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Solapur",
+                "hospitalBeds": 0,
+                "name": "Dr Vaishampayan Memorial Medical College, Solapur",
+                "ownership": "Govt.",
+                "state": "Maharastra"
+            }
+        ],
+        "Thane": [
+            {
+                "admissionCapacity": 60,
+                "city": "Thane",
+                "hospitalBeds": 0,
+                "name": "Rajiv Gandhi Medical College and Chhatrapati Shivaji Maharaj Hospital,",
+                "ownership": "Govt.",
+                "state": "Maharastra"
+            }
+        ],
+        "Uran Islampur": [
+            {
+                "admissionCapacity": 150,
+                "city": "Uran Islampur",
+                "hospitalBeds": 0,
+                "name": "Prakash Institute of Medicval Sciences & Research, Sangli Road, Uran Islampur, Maharastra",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            }
+        ],
+        "Wardha": [
+            {
+                "admissionCapacity": 200,
+                "city": "Wardha",
+                "hospitalBeds": 0,
+                "name": "Jawaharlal Nehru Medical College, Sawangi (Meghe), Wardha",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Wardha",
+                "hospitalBeds": 0,
+                "name": "Mahatma Gandhi Institute of Medical Sciences, Sevagram, Wardha",
+                "ownership": "Trust",
+                "state": "Maharastra"
+            }
+        ],
+        "Yavatmal": [
+            {
+                "admissionCapacity": 150,
+                "city": "Yavatmal",
+                "hospitalBeds": 0,
+                "name": "Shri Vasant Rao Naik Govt. Medical College, Yavatmal",
+                "ownership": "Govt.",
+                "state": "Maharastra"
+            }
+        ]
+    },
+    "Manipur": {
+        "Imphal": [
+            {
+                "admissionCapacity": 100,
+                "city": "Imphal",
+                "hospitalBeds": 0,
+                "name": "Jawaharlal Nehru Institute of Medical Sciences,Porompet,Imphal",
+                "ownership": "Govt.",
+                "state": "Manipur"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Imphal",
+                "hospitalBeds": 0,
+                "name": "Regional Institute of Medical Sciences, Imphal",
+                "ownership": "Govt.",
+                "state": "Manipur"
+            }
+        ]
+    },
+    "Meghalaya": {
+        "Shillong": [
+            {
+                "admissionCapacity": 50,
+                "city": "Shillong",
+                "hospitalBeds": 0,
+                "name": "North Eastern Indira Gandhi Regional Instt. of Health and Medical Sciences, Shillong",
+                "ownership": "Govt.",
+                "state": "Meghalaya"
+            }
+        ]
+    },
+    "Odisha": {
+        "Baripada": [
+            {
+                "admissionCapacity": 100,
+                "city": "Baripada",
+                "hospitalBeds": 0,
+                "name": "Pt. Raghunath Murmu Medical College and Hospital, Baripada",
+                "ownership": "Govt",
+                "state": "Odisha"
+            }
+        ],
+        "Berhampur": [
+            {
+                "admissionCapacity": 250,
+                "city": "Berhampur",
+                "hospitalBeds": 1062,
+                "name": "MKCG Medical College, Berhampur",
+                "ownership": "Govt.",
+                "state": "Odisha"
+            }
+        ],
+        "Bhubaneswar": [
+            {
+                "admissionCapacity": 100,
+                "city": "Bhubaneswar",
+                "hospitalBeds": 0,
+                "name": "All India Institute of Medical Sciences, Bhubaneswar",
+                "ownership": "Govt",
+                "state": "Odisha"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Bhubaneswar",
+                "hospitalBeds": 550,
+                "name": "Hi-Tech Medical College & Hospital, Bhubaneswar",
+                "ownership": "Trust",
+                "state": "Odisha"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Bhubaneswar",
+                "hospitalBeds": 830,
+                "name": "Instt. Of Medical Sciences & SUM Hospital, Bhubaneswar",
+                "ownership": "Trust",
+                "state": "Odisha"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Bhubaneswar",
+                "hospitalBeds": 1000,
+                "name": "Kalinga Institute of Medical Sciences, Bhubaneswar",
+                "ownership": "Trust",
+                "state": "Odisha"
+            }
+        ],
+        "Burla": [
+            {
+                "admissionCapacity": 150,
+                "city": "Burla",
+                "hospitalBeds": 964,
+                "name": "Veer Surendra Sai Institute of Medical Sciences and Research, Burla",
+                "ownership": "Govt.",
+                "state": "Odisha"
+            }
+        ],
+        "Cuttack": [
+            {
+                "admissionCapacity": 250,
+                "city": "Cuttack",
+                "hospitalBeds": 2066,
+                "name": "SCB Medical College, Cuttack",
+                "ownership": "Govt.",
+                "state": "Odisha"
+            }
+        ],
+        "Koraput": [
+            {
+                "admissionCapacity": 100,
+                "city": "Koraput",
+                "hospitalBeds": 0,
+                "name": "Saheed Laxman Nayak Medical College & Hospital, Koraput",
+                "ownership": "Govt",
+                "state": "Odisha"
+            }
+        ],
+        "Rourkela": [
+            {
+                "admissionCapacity": 0,
+                "city": "Rourkela",
+                "hospitalBeds": 450,
+                "name": "Hi-Tech Medical College & Hospital, Rourkela",
+                "ownership": "Trust",
+                "state": "Odisha"
+            }
+        ]
+    },
+    "Puducherry": {
+        "Pondicherry": [
+            {
+                "admissionCapacity": 100,
+                "city": "Pondicherry",
+                "hospitalBeds": 540,
+                "name": "Aarupadai Veedu Medical College, Pondicherry",
+                "ownership": "Trust",
+                "state": "Puducherry"
+            }
+        ],
+        "Puducherry": [
+            {
+                "admissionCapacity": 150,
+                "city": "Puducherry",
+                "hospitalBeds": 700,
+                "name": "Indira Gandhi Medical College & Research Institute, Puducherry",
+                "ownership": "Govt.",
+                "state": "Puducherry"
+            },
+            {
+                "admissionCapacity": 200,
+                "city": "Puducherry",
+                "hospitalBeds": 1690,
+                "name": "Jawaharlal Institute of Postgraduate Medical Education & Research,",
+                "ownership": "Govt.",
+                "state": "Puducherry"
+            },
+            {
+                "admissionCapacity": 250,
+                "city": "Puducherry",
+                "hospitalBeds": 950,
+                "name": "Mahatma Gandhi Medical College & Research Institute, Pondicherry",
+                "ownership": "Trust",
+                "state": "Puducherry"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Puducherry",
+                "hospitalBeds": 640,
+                "name": "Pondicherry Institute of Medical Sciences & Research, Pondicherry",
+                "ownership": "Trust",
+                "state": "Puducherry"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Puducherry",
+                "hospitalBeds": 750,
+                "name": "Sri Lakshmi Narayana Institute of Medical Sciences, Pondicherry",
+                "ownership": "Trust",
+                "state": "Puducherry"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Puducherry",
+                "hospitalBeds": 800,
+                "name": "Sri Manakula Vinayagar Medical College & Hospital, Pondicherry",
+                "ownership": "Trust",
+                "state": "Puducherry"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Puducherry",
+                "hospitalBeds": 830,
+                "name": "Sri Venkateswaraa Medical College, Hospital & Research Centre, Pondicherry",
+                "ownership": "Trust",
+                "state": "Puducherry"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Puducherry",
+                "hospitalBeds": 730,
+                "name": "Vinayaka Missions Medical College, Pondicherry",
+                "ownership": "Trust",
+                "state": "Puducherry"
+            }
+        ]
+    },
+    "Punjab": {
+        "Amritsar": [
+            {
+                "admissionCapacity": 200,
+                "city": "Amritsar",
+                "hospitalBeds": 1091,
+                "name": "Government Medical College, Amritsar",
+                "ownership": "Govt.",
+                "state": "Punjab"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Amritsar",
+                "hospitalBeds": 875,
+                "name": "Sri Guru Ram Das Institute of Medical Sciences and Research, Sri Amritsar",
+                "ownership": "Trust",
+                "state": "Punjab"
+            }
+        ],
+        "Bhatinda": [
+            {
+                "admissionCapacity": 150,
+                "city": "Bhatinda",
+                "hospitalBeds": 700,
+                "name": "Adesh Institute of Medical Sciences & Research, Bhatinda",
+                "ownership": "Trust",
+                "state": "Punjab"
+            }
+        ],
+        "Faridkot": [
+            {
+                "admissionCapacity": 100,
+                "city": "Faridkot",
+                "hospitalBeds": 500,
+                "name": "Guru Govind Singh Medical College, Faridkot",
+                "ownership": "Govt.",
+                "state": "Punjab"
+            }
+        ],
+        "Jalandhar": [
+            {
+                "admissionCapacity": 150,
+                "city": "Jalandhar",
+                "hospitalBeds": 500,
+                "name": "Punjab Institute of Medical Sciences, Jalandhar",
+                "ownership": "Trust",
+                "state": "Punjab"
+            }
+        ],
+        "Ludhiana": [
+            {
+                "admissionCapacity": 75,
+                "city": "Ludhiana",
+                "hospitalBeds": 650,
+                "name": "Christian Medical College, Ludhiana",
+                "ownership": "Trust",
+                "state": "Punjab"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Ludhiana",
+                "hospitalBeds": 1048,
+                "name": "Dayanand Medical College & Hospital, Ludhiana",
+                "ownership": "Trust",
+                "state": "Punjab"
+            }
+        ],
+        "Patiala": [
+            {
+                "admissionCapacity": 200,
+                "city": "Patiala",
+                "hospitalBeds": 1106,
+                "name": "Government Medical College, Patiala",
+                "ownership": "Govt.",
+                "state": "Punjab"
+            }
+        ]
+    },
+    "Rajasthan": {
+        "Ajmer": [
+            {
+                "admissionCapacity": 150,
+                "city": "Ajmer",
+                "hospitalBeds": 1328,
+                "name": "Jawaharlal Nehru Medical College, Ajmer",
+                "ownership": "Govt.",
+                "state": "Rajasthan"
+            }
+        ],
+        "Bedwas": [
+            {
+                "admissionCapacity": 0,
+                "city": "Bedwas",
+                "hospitalBeds": 0,
+                "name": "American International Institute of Medical Sciences, Bedwas",
+                "ownership": "Private",
+                "state": "Rajasthan"
+            }
+        ],
+        "Bikaner": [
+            {
+                "admissionCapacity": 250,
+                "city": "Bikaner",
+                "hospitalBeds": 2088,
+                "name": "Sardar Patel Medical College, Bikaner",
+                "ownership": "Govt.",
+                "state": "Rajasthan"
+            }
+        ],
+        "Jaipur": [
+            {
+                "admissionCapacity": 150,
+                "city": "Jaipur",
+                "hospitalBeds": 0,
+                "name": "Jaipur National University Institute of Medical Sciences and Research Centre, Jajatpur, Jaipur.",
+                "ownership": "University",
+                "state": "Rajasthan"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Jaipur",
+                "hospitalBeds": 0,
+                "name": "Mahatma Gandhi Medical College and Hospital, Jaipur",
+                "ownership": "Trust",
+                "state": "Rajasthan"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Jaipur",
+                "hospitalBeds": 0,
+                "name": "National Institute of Medical Science & Research, Jaipur",
+                "ownership": "Trust",
+                "state": "Rajasthan"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Jaipur",
+                "hospitalBeds": 322,
+                "name": "RUHS College of Medical Sciences, Jaipur",
+                "ownership": "Govt.",
+                "state": "Rajasthan"
+            },
+            {
+                "admissionCapacity": 250,
+                "city": "Jaipur",
+                "hospitalBeds": 4734,
+                "name": "SMS Medical College, Jaipur",
+                "ownership": "Govt.",
+                "state": "Rajasthan"
+            }
+        ],
+        "Jhalawar": [
+            {
+                "admissionCapacity": 150,
+                "city": "Jhalawar",
+                "hospitalBeds": 580,
+                "name": "Jhalawar Medical College, Jhalawar",
+                "ownership": "Govt.",
+                "state": "Rajasthan"
+            }
+        ],
+        "Jodhpur": [
+            {
+                "admissionCapacity": 100,
+                "city": "Jodhpur",
+                "hospitalBeds": 0,
+                "name": "All India Institute of Medical Sciences, Jodhpur",
+                "ownership": "Govt.",
+                "state": "Rajasthan"
+            },
+            {
+                "admissionCapacity": 250,
+                "city": "Jodhpur",
+                "hospitalBeds": 2831,
+                "name": "Dr SN Medical College, Jodhpur",
+                "ownership": "Govt.",
+                "state": "Rajasthan"
+            }
+        ],
+        "Kota": [
+            {
+                "admissionCapacity": 150,
+                "city": "Kota",
+                "hospitalBeds": 1172,
+                "name": "Government Medical College, Kota",
+                "ownership": "Govt.",
+                "state": "Rajasthan"
+            }
+        ],
+        "Rajsamand": [
+            {
+                "admissionCapacity": 0,
+                "city": "Rajsamand",
+                "hospitalBeds": 0,
+                "name": "Ananta Institute of Medcial Sciences & Research Centre, Rajsamand",
+                "ownership": "Society",
+                "state": "Rajasthan"
+            }
+        ],
+        "Udaipur": [
+            {
+                "admissionCapacity": 150,
+                "city": "Udaipur",
+                "hospitalBeds": 0,
+                "name": "Geetanjali Medical College & Hospital,Udaipur",
+                "ownership": "Trust",
+                "state": "Rajasthan"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Udaipur",
+                "hospitalBeds": 0,
+                "name": "Pacific Medical College & Hospital, Bhilo Ka Bedla, Udaipur",
+                "ownership": "Trust",
+                "state": "Rajasthan"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Udaipur",
+                "hospitalBeds": 0,
+                "name": "Pacific Institute of Medical Sciences, Umarda, Udaipur.",
+                "ownership": "Society",
+                "state": "Rajasthan"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Udaipur",
+                "hospitalBeds": 2006,
+                "name": "R N T Medical College, Udaipur",
+                "ownership": "Govt.",
+                "state": "Rajasthan"
+            }
+        ]
+    },
+    "Sikkim": {
+        "Gangtok": [
+            {
+                "admissionCapacity": 50,
+                "city": "Gangtok",
+                "hospitalBeds": 650,
+                "name": "Sikkim Manipal Institute of Medical Sciences, Gangtok",
+                "ownership": "Trust",
+                "state": "Sikkim"
+            }
+        ]
+    },
+    "Tamil Nadu": {
+        "Annamalainagar": [
+            {
+                "admissionCapacity": 150,
+                "city": "Annamalainagar",
+                "hospitalBeds": 700,
+                "name": "Rajah Muthiah Medical College, Annamalainagar",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Asaripallam": [
+            {
+                "admissionCapacity": 100,
+                "city": "Asaripallam",
+                "hospitalBeds": 600,
+                "name": "KanyaKumari Government Medical College, Asaripallam",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Chengalpattu": [
+            {
+                "admissionCapacity": 100,
+                "city": "Chengalpattu",
+                "hospitalBeds": 630,
+                "name": "Chengalpattu Medical College, Chengalpattu",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Chennai": [
+            {
+                "admissionCapacity": 150,
+                "city": "Chennai",
+                "hospitalBeds": 700,
+                "name": "ACS Medical College and Hospital, Chennai",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Chennai",
+                "hospitalBeds": 330,
+                "name": "ESI- PGIMSR, ESI Hospital,K.K. Nagar, Chennai",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Chennai",
+                "hospitalBeds": 1073,
+                "name": "Kilpauk Medical College, Chennai",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            },
+            {
+                "admissionCapacity": 0,
+                "city": "Chennai",
+                "hospitalBeds": 415,
+                "name": "Madha Medical College and Hospital, Thandalam, Chennai",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            },
+            {
+                "admissionCapacity": 250,
+                "city": "Chennai",
+                "hospitalBeds": 2772,
+                "name": "Madras Medical College, Chennai",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            },
+            {
+                "admissionCapacity": 250,
+                "city": "Chennai",
+                "hospitalBeds": 1170,
+                "name": "Sree Balaji Medical College and Hospital, Chennai",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Chennai",
+                "hospitalBeds": 530,
+                "name": "Sri Muthukumaran Medical College,Chennai",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            },
+            {
+                "admissionCapacity": 250,
+                "city": "Chennai",
+                "hospitalBeds": 1972,
+                "name": "Sri Ramachandra Medical College & Research Institute, Chennai",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            },
+            {
+                "admissionCapacity": 250,
+                "city": "Chennai",
+                "hospitalBeds": 1950,
+                "name": "Stanley Medical College, Chennai",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Chennai",
+                "hospitalBeds": 530,
+                "name": "Tagore Medical College and Hospital, Chennai",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Coimbatore": [
+            {
+                "admissionCapacity": 150,
+                "city": "Coimbatore",
+                "hospitalBeds": 1020,
+                "name": "Coimbatore Medical College, Coimbatore",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Coimbatore",
+                "hospitalBeds": 0,
+                "name": "Government Medical College & ESIC Hospital, Coimbatore",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Coimbatore",
+                "hospitalBeds": 300,
+                "name": "Karpagam Faculty of Medical Sciences & Research, Coimbatore",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Coimbatore",
+                "hospitalBeds": 1410,
+                "name": "PSG Institute of Medical Sciences, Coimbatore",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Dharmapuri": [
+            {
+                "admissionCapacity": 100,
+                "city": "Dharmapuri",
+                "hospitalBeds": 500,
+                "name": "Government Dharmapuri Medical College, Dharmapuri",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Enathur": [
+            {
+                "admissionCapacity": 150,
+                "city": "Enathur",
+                "hospitalBeds": 840,
+                "name": "Meenakshi Medical College and Research Institute, Enathur",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Kacnhipuram": [
+            {
+                "admissionCapacity": 0,
+                "city": "Kacnhipuram",
+                "hospitalBeds": 0,
+                "name": "Annaii Medical College & Hospital, Pennalur, , Kanchipuram,",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Kancheepuram": [
+            {
+                "admissionCapacity": 150,
+                "city": "Kancheepuram",
+                "hospitalBeds": 1080,
+                "name": "SRM Medical College Hospital & Research Centre, Kancheepuram",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Kanchipuram": [
+            {
+                "admissionCapacity": 150,
+                "city": "Kanchipuram",
+                "hospitalBeds": 1000,
+                "name": "Chettinad Hospital & Research Institute, Kanchipuram",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Kanchipuram",
+                "hospitalBeds": 700,
+                "name": "Saveetha Medical College and Hospital, Kanchipuram",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Kanchipuram",
+                "hospitalBeds": 700,
+                "name": "Shri Satya Sai Medical College and Research Institute, Kancheepuram",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Kanyakumari": [
+            {
+                "admissionCapacity": 100,
+                "city": "Kanyakumari",
+                "hospitalBeds": 560,
+                "name": "Sree Mookambika Institute of Medical Sciences, Kanyakumari",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Madurai": [
+            {
+                "admissionCapacity": 150,
+                "city": "Madurai",
+                "hospitalBeds": 2518,
+                "name": "Madurai Medical College, Madurai",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Madurai",
+                "hospitalBeds": 300,
+                "name": "Velammal Medical College Hospital and Research Institute, Madurai",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Maduranthagam": [
+            {
+                "admissionCapacity": 100,
+                "city": "Maduranthagam",
+                "hospitalBeds": 600,
+                "name": "Karpaga Vinayaga Institute of Medical Sciences,Maduranthagam",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Melmaruvathur": [
+            {
+                "admissionCapacity": 150,
+                "city": "Melmaruvathur",
+                "hospitalBeds": 700,
+                "name": "Melmaruvathur Adiparasakthi Instt. Medical Sciences and Research",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Nellur": [
+            {
+                "admissionCapacity": 0,
+                "city": "Nellur",
+                "hospitalBeds": 0,
+                "name": "Ponnaiyah Ramajayam Institute of Medical Sciences, Manamai, nellur",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Omandurar": [
+            {
+                "admissionCapacity": 100,
+                "city": "Omandurar",
+                "hospitalBeds": 0,
+                "name": "Government Medical College, Omandurar",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Perambalur": [
+            {
+                "admissionCapacity": 150,
+                "city": "Perambalur",
+                "hospitalBeds": 500,
+                "name": "Dhanalakshmi Srinivasan Medical College and Hospital,Perambalur",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Perundurai": [
+            {
+                "admissionCapacity": 100,
+                "city": "Perundurai",
+                "hospitalBeds": 0,
+                "name": "IRT Perundurai Medical College, Perndurai",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Pudukottai": [
+            {
+                "admissionCapacity": 150,
+                "city": "Pudukottai",
+                "hospitalBeds": 0,
+                "name": "Govt. Medical College, Pudukottai",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Salem": [
+            {
+                "admissionCapacity": 150,
+                "city": "Salem",
+                "hospitalBeds": 503,
+                "name": "Annapoorna Medical College & Hospital, Salem",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Salem",
+                "hospitalBeds": 1272,
+                "name": "Mohan Kumaramangalam Medical College, Salem",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Salem",
+                "hospitalBeds": 0,
+                "name": "Vinayaka Missions Kirupananda Variyar Medical College, Salem",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Sivaganga": [
+            {
+                "admissionCapacity": 100,
+                "city": "Sivaganga",
+                "hospitalBeds": 500,
+                "name": "Government Sivgangai Medical College, Sivaganga",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Thanjavur": [
+            {
+                "admissionCapacity": 150,
+                "city": "Thanjavur",
+                "hospitalBeds": 678,
+                "name": "Thanjavur Medical College,Thanjavur",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Theni": [
+            {
+                "admissionCapacity": 100,
+                "city": "Theni",
+                "hospitalBeds": 600,
+                "name": "Theni Government Medical College,Theni",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Thiruvannamalai": [
+            {
+                "admissionCapacity": 100,
+                "city": "Thiruvannamalai",
+                "hospitalBeds": 750,
+                "name": "Government Thiruvannamalai Medical College, Thiruvannamalai",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Thiruvarur": [
+            {
+                "admissionCapacity": 100,
+                "city": "Thiruvarur",
+                "hospitalBeds": 500,
+                "name": "Thiruvarur Govt. Medical College, Thiruvarur",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Thoothukudi": [
+            {
+                "admissionCapacity": 150,
+                "city": "Thoothukudi",
+                "hospitalBeds": 1112,
+                "name": "Thoothukudi Medical College, Thoothukudi",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Tirunelveli": [
+            {
+                "admissionCapacity": 150,
+                "city": "Tirunelveli",
+                "hospitalBeds": 1410,
+                "name": "Tirunelveli Medical College,Tirunelveli",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Trichy": [
+            {
+                "admissionCapacity": 150,
+                "city": "Trichy",
+                "hospitalBeds": 750,
+                "name": "Chennai Medical College Hospital and research centre,Irungalur,Trichy",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Trichy",
+                "hospitalBeds": 621,
+                "name": "K A P Viswanathan Government Medical College, Trichy",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Vellore": [
+            {
+                "admissionCapacity": 100,
+                "city": "Vellore",
+                "hospitalBeds": 2695,
+                "name": "Christian Medical College, Vellore",
+                "ownership": "Trust",
+                "state": "Tamil Nadu"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Vellore",
+                "hospitalBeds": 750,
+                "name": "Government Vellore Medical College, Vellore",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            }
+        ],
+        "Villupuram": [
+            {
+                "admissionCapacity": 100,
+                "city": "Villupuram",
+                "hospitalBeds": 500,
+                "name": "Government Villupuram Medical College, Villupuram",
+                "ownership": "Govt.",
+                "state": "Tamil Nadu"
+            }
+        ]
+    },
+    "Telangana": {
+        "Adilabad": [
+            {
+                "admissionCapacity": 100,
+                "city": "Adilabad",
+                "hospitalBeds": 750,
+                "name": "Rajiv Gandhi Institute of Medical Sciences, Adilabad",
+                "ownership": "Govt.",
+                "state": "Telangana"
+            }
+        ],
+        "Aziznagar": [
+            {
+                "admissionCapacity": 100,
+                "city": "Aziznagar",
+                "hospitalBeds": 0,
+                "name": "Dr. VRK Womens Medical College, Aziznagar",
+                "ownership": "Trust",
+                "state": "Telangana"
+            }
+        ],
+        "Ghanpur": [
+            {
+                "admissionCapacity": 100,
+                "city": "Ghanpur",
+                "hospitalBeds": 570,
+                "name": "Mediciti Institute Of Medical Sciences, Ghanpur",
+                "ownership": "Trust",
+                "state": "Telangana"
+            }
+        ],
+        "Hyderabad": [
+            {
+                "admissionCapacity": 100,
+                "city": "Hyderabad",
+                "hospitalBeds": 300,
+                "name": "Apollo Institute of Medical Sciences and Research, Hyderabad",
+                "ownership": "Trust",
+                "state": "Telangana"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Hyderabad",
+                "hospitalBeds": 515,
+                "name": "Deccan College of Medical Sciences, Hyderabad",
+                "ownership": "Trust",
+                "state": "Telangana"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Hyderabad",
+                "hospitalBeds": 0,
+                "name": "Employee's State Insurance coporation Medical College, Sanath Nagar,",
+                "ownership": "Govt.",
+                "state": "Telangana"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Hyderabad",
+                "hospitalBeds": 1060,
+                "name": "Kamineni Academy of Medical Sciences & Research Center, Hyderabad",
+                "ownership": "Private",
+                "state": "Telangana"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Hyderabad",
+                "hospitalBeds": 570,
+                "name": "Malla Reddy Institute of Medical Sciences, Hyderabad",
+                "ownership": "Society",
+                "state": "Telangana"
+            },
+            {
+                "admissionCapacity": 0,
+                "city": "Hyderabad",
+                "hospitalBeds": 150,
+                "name": "Mallareddy Medical College for Womens, Hyderabad",
+                "ownership": "Society",
+                "state": "Telangana"
+            },
+            {
+                "admissionCapacity": 250,
+                "city": "Hyderabad",
+                "hospitalBeds": 1168,
+                "name": "Osmania Medical College, Hyderabad",
+                "ownership": "Govt.",
+                "state": "Telangana"
+            }
+        ],
+        "Karimnagar": [
+            {
+                "admissionCapacity": 150,
+                "city": "Karimnagar",
+                "hospitalBeds": 840,
+                "name": "Chalmeda Anand Rao Insttitute Of Medical Sciences, Karimnagar",
+                "ownership": "Trust",
+                "state": "Telangana"
+            },
+            {
+                "admissionCapacity": 200,
+                "city": "Karimnagar",
+                "hospitalBeds": 780,
+                "name": "Prathima Institute Of Medical Sciences, Karimnagar",
+                "ownership": "Trust",
+                "state": "Telangana"
+            }
+        ],
+        "Khammam": [
+            {
+                "admissionCapacity": 150,
+                "city": "Khammam",
+                "hospitalBeds": 0,
+                "name": "Mamta Medical College, Khammam",
+                "ownership": "Trust",
+                "state": "Telangana"
+            }
+        ],
+        "Mahabubnagar": [
+            {
+                "admissionCapacity": 150,
+                "city": "Mahabubnagar",
+                "hospitalBeds": 0,
+                "name": "Government Medical College, Mahabubnagar",
+                "ownership": "Govt.",
+                "state": "Telangana"
+            }
+        ],
+        "Medak": [
+            {
+                "admissionCapacity": 150,
+                "city": "Medak",
+                "hospitalBeds": 0,
+                "name": "Maheshwara Medical College, Chitkul, Patancheru, Medak",
+                "ownership": "Society",
+                "state": "Telangana"
+            },
+            {
+                "admissionCapacity": 0,
+                "city": "Medak",
+                "hospitalBeds": 0,
+                "name": "R.V.M. Institute of Medical Sciences and Research Centre, Medak",
+                "ownership": "Trust",
+                "state": "Telangana"
+            }
+        ],
+        "Mehboobnagar": [
+            {
+                "admissionCapacity": 100,
+                "city": "Mehboobnagar",
+                "hospitalBeds": 750,
+                "name": "S V S Medical College, Mehboobnagar",
+                "ownership": "Trust",
+                "state": "Telangana"
+            }
+        ],
+        "Narketpally": [
+            {
+                "admissionCapacity": 200,
+                "city": "Narketpally",
+                "hospitalBeds": 1060,
+                "name": "Kamineni Institute of Medical Sciences, Narketpally",
+                "ownership": "Trust",
+                "state": "Telangana"
+            }
+        ],
+        "Nizamabad": [
+            {
+                "admissionCapacity": 100,
+                "city": "Nizamabad",
+                "hospitalBeds": 500,
+                "name": "Government Medical College, Nizamabad",
+                "ownership": "Govt.",
+                "state": "Telangana"
+            }
+        ],
+        "Peerancheru": [
+            {
+                "admissionCapacity": 150,
+                "city": "Peerancheru",
+                "hospitalBeds": 750,
+                "name": "Shadan Institute of Medical Sciences,Research Centre and Teaching Hospital, Peerancheru\n",
+                "ownership": "Society",
+                "state": "Telangana"
+            }
+        ],
+        "Sangareddy": [
+            {
+                "admissionCapacity": 100,
+                "city": "Sangareddy",
+                "hospitalBeds": 570,
+                "name": "MNR Medical College & Hospital, Sangareddy",
+                "ownership": "Trust",
+                "state": "Telangana"
+            }
+        ],
+        "Secunderabad": [
+            {
+                "admissionCapacity": 200,
+                "city": "Secunderabad",
+                "hospitalBeds": 1560,
+                "name": "Gandhi Medical College,Secunderabad",
+                "ownership": "Govt.",
+                "state": "Telangana"
+            }
+        ],
+        "Vikarabad": [
+            {
+                "admissionCapacity": 0,
+                "city": "Vikarabad",
+                "hospitalBeds": 0,
+                "name": "Mahavir Institute of Medical Sciences, Vikarabad",
+                "ownership": "Trust",
+                "state": "Telangana"
+            }
+        ],
+        "Wrangal": [
+            {
+                "admissionCapacity": 200,
+                "city": "Wrangal",
+                "hospitalBeds": 1010,
+                "name": "Kakatiya Medical College, Wrangal",
+                "ownership": "Govt.",
+                "state": "Telangana"
+            }
+        ],
+        "Yenkapally": [
+            {
+                "admissionCapacity": 150,
+                "city": "Yenkapally",
+                "hospitalBeds": 790,
+                "name": "Bhaskar Medical College, Yenkapally",
+                "ownership": "Trust",
+                "state": "Telangana"
+            }
+        ]
+    },
+    "Tripura": {
+        "Agartala": [
+            {
+                "admissionCapacity": 100,
+                "city": "Agartala",
+                "hospitalBeds": 695,
+                "name": "Agartala Government Medical College,Agartala",
+                "ownership": "Govt.",
+                "state": "Tripura"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Agartala",
+                "hospitalBeds": 500,
+                "name": "Tripura Medical College and Dr. B R A M Teaching Hospital, Agartala",
+                "ownership": "Trust",
+                "state": "Tripura"
+            }
+        ]
+    },
+    "Uttar Pradesh": {
+        "Agra": [
+            {
+                "admissionCapacity": 150,
+                "city": "Agra",
+                "hospitalBeds": 1047,
+                "name": "S N Medical College",
+                "ownership": "Govt",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Aligarh": [
+            {
+                "admissionCapacity": 150,
+                "city": "Aligarh",
+                "hospitalBeds": 1250,
+                "name": "Jawaharlal Nehru Medical College, Aligarh",
+                "ownership": "Govt.",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Allahabad": [
+            {
+                "admissionCapacity": 150,
+                "city": "Allahabad",
+                "hospitalBeds": 850,
+                "name": "Moti Lal Nehru Medical College, Allahabad",
+                "ownership": "Govt.",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Ambedkarnagar": [
+            {
+                "admissionCapacity": 100,
+                "city": "Ambedkarnagar",
+                "hospitalBeds": 450,
+                "name": "Mahamaya Rajkiya Allopathic Medical College, Ambedkarnagar",
+                "ownership": "Govt.",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Azamgarh": [
+            {
+                "admissionCapacity": 100,
+                "city": "Azamgarh",
+                "hospitalBeds": 140,
+                "name": "Government Medical College & Super facility Hospital, Azamgarh",
+                "ownership": "Govt.",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Banda": [
+            {
+                "admissionCapacity": 100,
+                "city": "Banda",
+                "hospitalBeds": 0,
+                "name": "Government Allopathic Medical College, Banda, UP",
+                "ownership": "Govt.",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Barabanki": [
+            {
+                "admissionCapacity": 100,
+                "city": "Barabanki",
+                "hospitalBeds": 350,
+                "name": "Hind Institute of Medical Sciences , Barabanki",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Barabanki",
+                "hospitalBeds": 300,
+                "name": "Mayo Institute of Medical Sciences, Barabanki",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Bareilly": [
+            {
+                "admissionCapacity": 150,
+                "city": "Bareilly",
+                "hospitalBeds": 300,
+                "name": "Rajshree Medical Research Institute, Bareilly",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Bareilly",
+                "hospitalBeds": 600,
+                "name": "Rohilkhand Medical College & Hospital",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Bareilly",
+                "hospitalBeds": 650,
+                "name": "Shri Ram Murti Smarak Institute of Medical Sciences",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Etawah": [
+            {
+                "admissionCapacity": 150,
+                "city": "Etawah",
+                "hospitalBeds": 750,
+                "name": "U.P. Rural Institute of Medical Sciences & Research",
+                "ownership": "Govt.",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Farrukhabad": [
+            {
+                "admissionCapacity": 0,
+                "city": "Farrukhabad",
+                "hospitalBeds": 350,
+                "name": "Major S D Singh Medical College and Hospital, Fathehgarh, Farrukhabad",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Firozabad": [
+            {
+                "admissionCapacity": 150,
+                "city": "Firozabad",
+                "hospitalBeds": 350,
+                "name": "F.H. Medical College & Hospital, Firozabad",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Gajarula": [
+            {
+                "admissionCapacity": 0,
+                "city": "Gajarula",
+                "hospitalBeds": 300,
+                "name": "Venkateshwara Institute of Medical Sciences",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Ghaziabad": [
+            {
+                "admissionCapacity": 100,
+                "city": "Ghaziabad",
+                "hospitalBeds": 700,
+                "name": "Santosh Medical College",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Gorakhpur": [
+            {
+                "admissionCapacity": 100,
+                "city": "Gorakhpur",
+                "hospitalBeds": 900,
+                "name": "BRD Medical College, Gorakhpur",
+                "ownership": "Govt.",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Greater Noida": [
+            {
+                "admissionCapacity": 150,
+                "city": "Greater Noida",
+                "hospitalBeds": 500,
+                "name": "Greater Noida Greater Noida Trust 150 500",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Hapur": [
+            {
+                "admissionCapacity": 150,
+                "city": "Hapur",
+                "hospitalBeds": 0,
+                "name": "G.S. Medical College, & Hospital, Hapur",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Hapur",
+                "hospitalBeds": 600,
+                "name": "Rama Medical College Hospital and Research Centre, Hapur",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Hapur",
+                "hospitalBeds": 500,
+                "name": " Saraswati Institute of Medical Sciences",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Jhansi": [
+            {
+                "admissionCapacity": 100,
+                "city": "Jhansi",
+                "hospitalBeds": 700,
+                "name": "Maharani Laxmi Bai Medical College, Jhansi",
+                "ownership": "Govt.",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Kannauj": [
+            {
+                "admissionCapacity": 100,
+                "city": "Kannauj",
+                "hospitalBeds": 300,
+                "name": "Government Medical College, Kannauj",
+                "ownership": "Govt.",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Kanpur": [
+            {
+                "admissionCapacity": 190,
+                "city": "Kanpur",
+                "hospitalBeds": 1825,
+                "name": "GSVM Medial College, Kanpur",
+                "ownership": "Govt.",
+                "state": "Uttar Pradesh"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Kanpur",
+                "hospitalBeds": 300,
+                "name": "Manyavar Kanshi Ram Ji Government Allopathic Medical College",
+                "ownership": "Govt.",
+                "state": "Uttar Pradesh"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Kanpur",
+                "hospitalBeds": 693,
+                "name": "Rama Medical College and Hospital , Kanpur",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Lucknow": [
+            {
+                "admissionCapacity": 100,
+                "city": "Lucknow",
+                "hospitalBeds": 400,
+                "name": "Career Instt. Of Medical Sciences & Hospital, Lucknow",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Lucknow",
+                "hospitalBeds": 0,
+                "name": "Dr. Ram Manohar Lohia Institute of Medical Sciences, Lucknow",
+                "ownership": "Govt",
+                "state": "Uttar Pradesh"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Lucknow",
+                "hospitalBeds": 700,
+                "name": "Era Lucknow Medical College , Lucknow",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            },
+            {
+                "admissionCapacity": 0,
+                "city": "Lucknow",
+                "hospitalBeds": 300,
+                "name": "G.C.R.G. Institute of Medical Sciences, Lucknow",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Lucknow",
+                "hospitalBeds": 350,
+                "name": "Integral Institute of Medical Sciences & Research, Lucknow",
+                "ownership": "Private",
+                "state": "Uttar Pradesh"
+            },
+            {
+                "admissionCapacity": 250,
+                "city": "Lucknow",
+                "hospitalBeds": 1250,
+                "name": "King George Medical University, Lucknow",
+                "ownership": "Govt",
+                "state": "Uttar Pradesh"
+            },
+            {
+                "admissionCapacity": 0,
+                "city": "Lucknow",
+                "hospitalBeds": 350,
+                "name": "Prasad Institute of Medical Sciences, Lucknow",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Lucknow Lucknow Private 150 300": [
+            {
+                "admissionCapacity": 150,
+                "city": "Lucknow Lucknow Private 150 300",
+                "hospitalBeds": 300,
+                "name": "T.S Mishra Medical College & Hospital",
+                "ownership": "Private",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Mathura": [
+            {
+                "admissionCapacity": 150,
+                "city": "Mathura",
+                "hospitalBeds": 300,
+                "name": "K.D.Medical college & Research Centre, Mathura",
+                "ownership": "Society",
+                "state": "Uttar Pradesh"
+            },
+            {
+                "admissionCapacity": 0,
+                "city": "Mathura",
+                "hospitalBeds": 300,
+                "name": "Krishna Mohan Medical College & Hospital, Mathura.",
+                "ownership": "Society",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Meerut": [
+            {
+                "admissionCapacity": 100,
+                "city": "Meerut",
+                "hospitalBeds": 800,
+                "name": "Subharti Medical College",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Merrut": [
+            {
+                "admissionCapacity": 150,
+                "city": "Merrut",
+                "hospitalBeds": 1040,
+                "name": "LLRM Medical College, Merrut",
+                "ownership": "Govt.",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Moradabad": [
+            {
+                "admissionCapacity": 150,
+                "city": "Moradabad",
+                "hospitalBeds": 550,
+                "name": "Teerthanker Mahaveer Medical College",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Muzaffarnagar": [
+            {
+                "admissionCapacity": 150,
+                "city": "Muzaffarnagar",
+                "hospitalBeds": 500,
+                "name": "Muzaffarnagar Medical College, Muzaffarnagar",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Sahajahanpur Sahajahanpur Trust 0 300": [
+            {
+                "admissionCapacity": 0,
+                "city": "Sahajahanpur Sahajahanpur Trust 0 300",
+                "hospitalBeds": 300,
+                "name": "Varun Arjun Medical College",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Saharanpur": [
+            {
+                "admissionCapacity": 0,
+                "city": "Saharanpur",
+                "hospitalBeds": 300,
+                "name": "Glocal Medical College, Super Specility Hospital & Research Centre,",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Saharanpur",
+                "hospitalBeds": 650,
+                "name": "Shaikh-UL-Hind Maulana Mahmood Hasan Medical College",
+                "ownership": "Govt",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Sitapur": [
+            {
+                "admissionCapacity": 0,
+                "city": "Sitapur",
+                "hospitalBeds": 300,
+                "name": "Hind Institute of Medical Sciences, Sitapur.",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Unnao": [
+            {
+                "admissionCapacity": 150,
+                "city": "Unnao",
+                "hospitalBeds": 320,
+                "name": "Saraswati Institute of Medical Sciences",
+                "ownership": "Trust",
+                "state": "Uttar Pradesh"
+            }
+        ],
+        "Varanasi": [
+            {
+                "admissionCapacity": 150,
+                "city": "Varanasi",
+                "hospitalBeds": 300,
+                "name": "Heritage Institute of Medical Sciences, Varanasi",
+                "ownership": "Private",
+                "state": "Uttar Pradesh"
+            },
+            {
+                "admissionCapacity": 84,
+                "city": "Varanasi",
+                "hospitalBeds": 1200,
+                "name": "Institute of Medical Sciences, BHU, Varanasi",
+                "ownership": "Govt.",
+                "state": "Uttar Pradesh"
+            }
+        ]
+    },
+    "Uttarakhand": {
+        "Dehradun": [
+            {
+                "admissionCapacity": 150,
+                "city": "Dehradun",
+                "hospitalBeds": 300,
+                "name": "Doon Medical College, Dehradun Dehradun",
+                "ownership": "Govt",
+                "state": "Uttarakhand"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Dehradun",
+                "hospitalBeds": 750,
+                "name": "Himalayan Institute of Medical Sciences, Dehradun",
+                "ownership": "Trust",
+                "state": "Uttarakhand"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Dehradun",
+                "hospitalBeds": 1000,
+                "name": "Shri Guru Ram Rai Institute of Medical & Health Sciences, Dehradun",
+                "ownership": "Society",
+                "state": "Uttarakhand"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Dehradun",
+                "hospitalBeds": 350,
+                "name": "Sridev Suman Subharti Medical College, Dehradun",
+                "ownership": "Trust",
+                "state": "Uttarakhand"
+            }
+        ],
+        "Haldwani": [
+            {
+                "admissionCapacity": 100,
+                "city": "Haldwani",
+                "hospitalBeds": 600,
+                "name": "Government Medical College (Prev.Uttarakhand Forest Hospital Trust",
+                "ownership": "Govt",
+                "state": "Uttarakhand"
+            }
+        ],
+        "Rishikesh": [
+            {
+                "admissionCapacity": 100,
+                "city": "Rishikesh",
+                "hospitalBeds": 0,
+                "name": "All India Institute of Medical Sciences, Rishikesh",
+                "ownership": "Govt",
+                "state": "Uttarakhand"
+            }
+        ],
+        "Srinagar": [
+            {
+                "admissionCapacity": 150,
+                "city": "Srinagar",
+                "hospitalBeds": 300,
+                "name": "Veer Chandra Singh Garhwali Govt. Medical Sc. & Research Instt, Srinagar, Pauri Garhwal",
+                "ownership": "Govt.",
+                "state": "Uttarakhand"
+            }
+        ]
+    },
+    "West Bengal": {
+        "Bankura": [
+            {
+                "admissionCapacity": 150,
+                "city": "Bankura",
+                "hospitalBeds": 1217,
+                "name": "West Bengal Bankura Sammilani Medical College, Bankura Bankura Govt. 150 1217",
+                "ownership": "Govt",
+                "state": "West Bengal"
+            }
+        ],
+        "Burdwan": [
+            {
+                "admissionCapacity": 150,
+                "city": "Burdwan",
+                "hospitalBeds": 1105,
+                "name": "Burdwan Medical College, Burdwan",
+                "ownership": "Govt",
+                "state": "West Bengal"
+            },
+            {
+                "admissionCapacity": 0,
+                "city": "Burdwan",
+                "hospitalBeds": 322,
+                "name": "IQ-City Medical College, Burdwan",
+                "ownership": "Trust",
+                "state": "West Bengal"
+            }
+        ],
+        "Durgapur": [
+            {
+                "admissionCapacity": 0,
+                "city": "Durgapur",
+                "hospitalBeds": 0,
+                "name": "Gauri Devi Institute of Medical Sciences and Hospital, Durgapur",
+                "ownership": "Govt",
+                "state": "West Bengal"
+            }
+        ],
+        "Haldia": [
+            {
+                "admissionCapacity": 0,
+                "city": "Haldia",
+                "hospitalBeds": 0,
+                "name": "ICARE Institute of Med. Sciences & Research, Haldia",
+                "ownership": "Trust",
+                "state": "West Bengal"
+            }
+        ],
+        "Kolkata": [
+            {
+                "admissionCapacity": 200,
+                "city": "Kolkata",
+                "hospitalBeds": 1470,
+                "name": "Calcutta National Medical College, Kolkata",
+                "ownership": "Govt",
+                "state": "West Bengal"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Kolkata",
+                "hospitalBeds": 900,
+                "name": "College of Medicine and Sagore Dutta Hospital, Kolkata",
+                "ownership": "Govt",
+                "state": "West Bengal"
+            },
+            {
+                "admissionCapacity": 100,
+                "city": "Kolkata",
+                "hospitalBeds": 550,
+                "name": "Employees State Insurance Corporation Medical College, Joka, Kolkata",
+                "ownership": "Govt",
+                "state": "West Bengal"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Kolkata",
+                "hospitalBeds": 1775,
+                "name": "Institute of Postgraduate Medical Education & Research, Kolkata",
+                "ownership": "Govt",
+                "state": "West Bengal"
+            },
+            {
+                "admissionCapacity": 150,
+                "city": "Kolkata",
+                "hospitalBeds": 750,
+                "name": "KPC Medical College,Jadavpur, Kolkata",
+                "ownership": "Trust",
+                "state": "West Bengal"
+            },
+            {
+                "admissionCapacity": 250,
+                "city": "Kolkata",
+                "hospitalBeds": 2010,
+                "name": "Medical College, Kolkata",
+                "ownership": "Govt",
+                "state": "West Bengal"
+            },
+            {
+                "admissionCapacity": 250,
+                "city": "Kolkata",
+                "hospitalBeds": 1890,
+                "name": "Nilratan Sircar Medical College, Kolkata",
+                "ownership": "Govt",
+                "state": "West Bengal"
+            },
+            {
+                "admissionCapacity": 200,
+                "city": "Kolkata",
+                "hospitalBeds": 1210,
+                "name": "RG Kar Medical College, Kolkata",
+                "ownership": "Govt",
+                "state": "West Bengal"
+            }
+        ],
+        "Malda": [
+            {
+                "admissionCapacity": 100,
+                "city": "Malda",
+                "hospitalBeds": 750,
+                "name": "Malda Medical College & Hospital, Malda",
+                "ownership": "Govt",
+                "state": "West Bengal"
+            }
+        ],
+        "Midnapore": [
+            {
+                "admissionCapacity": 150,
+                "city": "Midnapore",
+                "hospitalBeds": 740,
+                "name": "Midnapore Medical College, Midnapore",
+                "ownership": "Govt",
+                "state": "West Bengal"
+            }
+        ],
+        "Murshidabad": [
+            {
+                "admissionCapacity": 100,
+                "city": "Murshidabad",
+                "hospitalBeds": 820,
+                "name": "Murshidabad Medical College & Hospitals, Murshidabad",
+                "ownership": "Govt",
+                "state": "West Bengal"
+            }
+        ],
+        "Nadia": [
+            {
+                "admissionCapacity": 100,
+                "city": "Nadia",
+                "hospitalBeds": 0,
+                "name": "College of Medicine and JNM Hospital,Kalyani,Nadia",
+                "ownership": "Govt",
+                "state": "West Bengal"
+            }
+        ],
+        "Siliguri": [
+            {
+                "admissionCapacity": 150,
+                "city": "Siliguri",
+                "hospitalBeds": 599,
+                "name": "North Bengal Medical College, Darjeeling Siliguri",
+                "ownership": "Govt",
+                "state": "West Bengal"
+            }
+        ]
+    }
+}
