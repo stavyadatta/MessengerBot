@@ -30,4 +30,3 @@ def changeJson(parameter, json_data_summary, cindex):
     return "{:,}".format(json_data_summary['Countries'][cindex][parameter])
 
 
-# Geeksforgeeks - https://www.geeksforgeeks.org/python-program-for-binary-search/
