@@ -6,10 +6,10 @@ from modifyingMessages import textDecider
 
 app = Flask(__name__)
 
-#VERIFY_TOKEN = 'COVID_CHATS'
-#ACCESS_TOKEN = 'EAAMd3g3exIMBADqWvOr89Yi4QUEne7QTZARU4qEQPRxp0a8MJHBNZCqtw4D5GrC1uJCV6PbPKU1X7OGb0jiOw3MQ435cKZCvNjqgByl1D7b6wvXvqlgXQjZC0ZAVZABQBv1ZAQV5biOZBtZCcbAq5T3eGTZBIEf9gIcuVr5cpTM1zy0gZDZD '
-ACCESS_TOKEN = os.environ['ACCESS_TOKEN']
-VERIFY_TOKEN = os.environ['VERIFY_TOKEN']
+VERIFY_TOKEN = 'COVID_CHATS'
+ACCESS_TOKEN = 'EAAMd3g3exIMBAD4cejiCObrARbzSwpq79ZCeGWtZAmW2nSj4bk8rYZCDZCWJctU0aMygZA2VQu7sqJMGn6vq4DyUbXIzFIHXgRlvQMGzEbDRylKevM2MfBRvd9yN7T5fSsSijyxWdTcIGWRLOPmva0PhS9GOZCjec3XMe2v6AbbQZDZD '
+# ACCESS_TOKEN = os.environ['ACCESS_TOKEN']
+# VERIFY_TOKEN = os.environ['VERIFY_TOKEN']
 bot = Bot(ACCESS_TOKEN)
 
 
@@ -28,6 +28,7 @@ def receive_message():
                     recipient_id = message['sender']['id']
                     if message['message'].get('text'):
                         response_sent_text = textDecider(message['message'].get('text'))
+                        #response_sent_text = length_of_text_consideration(response_sent_text)
                         send_message(recipient_id, response_sent_text)
                         # in case of gif or text
                         if message['message'].get('attachments'):
@@ -40,6 +41,24 @@ def verify_token(token_sent):
     if token_sent == VERIFY_TOKEN:
         return request.args.get("hub.challenge")
     return "Invalid argument"
+
+
+def length_of_text_consideration(response_sent_text):
+    list_of_text = []
+    if type(response_sent_text) == list:
+        for info in response_sent_text:
+            if len(info) > 1230:
+                list_sub_text = info.split('\n\n')
+                list_of_text += list_sub_text
+            else:
+                list_of_text.append(info)
+        return list_of_text
+    else:
+        if len(response_sent_text) > 1270:
+            list_of_text = response_sent_text.split('\n\n')
+            return list_of_text
+        else:
+            return response_sent_text
 
 
 def send_message(recipient_id, response):
