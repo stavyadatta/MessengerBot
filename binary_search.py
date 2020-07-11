@@ -20,12 +20,10 @@ def binary_search_param(arr, x, parameter):
 
         # Check if x is present at mid
         if arr[mid][parameter] < x:
-            print(arr[mid][parameter])
             low = mid + 1
 
         # If x is greater, ignore left half
         elif arr[mid][parameter] > x:
-            print(arr[mid][parameter])
             high = mid - 1
 
         # If x is smaller, ignore right half

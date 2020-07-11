@@ -28,7 +28,6 @@ def receive_message():
                     recipient_id = message['sender']['id']
                     if message['message'].get('text'):
                         response_sent_text = textDecider(message['message'].get('text'))
-                        #response_sent_text = length_of_text_consideration(response_sent_text)
                         send_message(recipient_id, response_sent_text)
                         # in case of gif or text
                         if message['message'].get('attachments'):
@@ -41,24 +40,6 @@ def verify_token(token_sent):
     if token_sent == VERIFY_TOKEN:
         return request.args.get("hub.challenge")
     return "Invalid argument"
-
-
-def length_of_text_consideration(response_sent_text):
-    list_of_text = []
-    if type(response_sent_text) == list:
-        for info in response_sent_text:
-            if len(info) > 1230:
-                list_sub_text = info.split('\n\n')
-                list_of_text += list_sub_text
-            else:
-                list_of_text.append(info)
-        return list_of_text
-    else:
-        if len(response_sent_text) > 1270:
-            list_of_text = response_sent_text.split('\n\n')
-            return list_of_text
-        else:
-            return response_sent_text
 
 
 def send_message(recipient_id, response):

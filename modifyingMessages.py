@@ -6,7 +6,6 @@ import news
 import state_list
 import indianData
 
-
 # when info is not found
 alternate_text = "Didn't get your text, please try again later"
 
@@ -105,14 +104,11 @@ def getCities(text):
     return list_of_hospitals
 
 
-
 def getStates(text):
     kashmir = ''
     if 'Jammu & Kashmir' in text:
-        print('entered jmammu')
         kashmir = 'Jammu and Kashmir'
         text.replace('Jammu & Kashmir', '')
-        print(text)
     elif 'Jammu and Kashmir' in text:
         kashmir = 'Jammu and Kashmir'
         text.replace('Jammu and Kashmir', '')
@@ -167,13 +163,14 @@ def hospitalDataOutput(stateName, stateHospitals):
     random_message = ''
     for hospital in stateHospitals:
         random_message += 'Hospitals in ' + stateName + ' are \n' \
-                          'Name: {}' \
-                          '\nCity: {}' \
-                          '\nAdmission Capacity: {}' \
-                          '\nHospital beds: {}' \
-                          '\nOwner: {}\n\n'.format(hospital['name'], hospital['city'],
-                                                   hospital['admissionCapacity'], hospital['hospitalBeds'],
-                                                   hospital['ownership'])
+                                                        'Name: {}' \
+                                                        '\nCity: {}' \
+                                                        '\nAdmission Capacity: {}' \
+                                                        '\nHospital beds: {}' \
+                                                        '\nOwner: {}\n\n'.format(hospital['name'], hospital['city'],
+                                                                                 hospital['admissionCapacity'],
+                                                                                 hospital['hospitalBeds'],
+                                                                                 hospital['ownership'])
     return random_message
 
 
@@ -183,9 +180,9 @@ def findingTwoWordedStates(list_of_words):
         possible_state = list_of_words[i - 1] + ' ' + list_of_words[i]
         if possible_state in state_list.state_list:
             list_of_words[i] = possible_state
-            list_of_words.pop(i-1)
+            list_of_words.pop(i - 1)
         i = i + 1
     return list_of_words
 
-x = getCities('Faridabad')
-print(x)
+
+
