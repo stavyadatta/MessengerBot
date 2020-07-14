@@ -1,5 +1,5 @@
 import json
-from mergeSort import Sort_Tuple
+from sorting import Sort_Tuple
 
 with open('hospitalData.json', 'r') as fp:
     data = json.load(fp)

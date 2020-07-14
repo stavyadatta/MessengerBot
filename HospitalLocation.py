@@ -2,11 +2,16 @@ from geopy.geocoders import Nominatim
 from geopy.exc import GeocoderTimedOut
 from googleplaces import GooglePlaces, types, lang
 import sys, traceback
+import certifi
+import ssl
+import geopy.geocoders
+ctx = ssl.create_default_context(cafile=certifi.where())
+geopy.geocoders.options.default_ssl_context = ctx
 
 
 def hospitalLocationsOnCoordinates(locality):
     my_address = locality
-    geolocator = Nominatim()
+    geolocator = Nominatim(scheme='http')
     try:
         location = geolocator.geocode(my_address)
         # print(location.latitude, location.longitude)
