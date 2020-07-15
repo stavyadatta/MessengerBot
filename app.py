@@ -4,6 +4,7 @@ from flask import Flask, request
 from pymessenger.bot import Bot
 from modifyingMessages import textDecider
 from flask import request
+from whatsapp import whastappFunction
 import requests
 from twilio.twiml.messaging_response import MessagingResponse
 app = Flask(__name__)
@@ -17,36 +18,8 @@ bot = Bot(ACCESS_TOKEN)
 
 @app.route('/whatsapp', methods=['POST'])
 def whatsApp_bot():
-    incoming_msg = request.values.get('Body', '')
-    resp = MessagingResponse()
-    msg = resp.message()
-    responded = False
-    response_sent_text = textDecider(incoming_msg)
-    print(type(response_sent_text))
-    print(response_sent_text)
+    return whastappFunction()
 
-    if type(response_sent_text) == list:
-        for i in response_sent_text:
-            msg.body(i)
-        return str(resp)
-    msg.body(response_sent_text)
-    #msg.body(str(response_sent_text))
-    # if "quote" in incoming_msg:
-    #     r = requests.get('https://api.quotable.io/random')
-    #     if r.status_code == 200:
-    #         data = r.json()
-    #         quote = f'{data["content"]} ({data["author"]})'
-    #     else:
-    #         quote = 'I could not retrieve a quote at this time, sorry.'
-    #     msg.body(quote)
-    #     responded = True
-    # if 'cat' in incoming_msg:
-    #     responded = True
-    #     msg.media('https://cataas.com/cat')
-    #     responded = True
-    # if not responded:
-    #     msg.body('I only know about famous quotes and cats, sorry!')
-    return str(resp)
 
 
 @app.route('/', methods=['GET', 'POST'])
