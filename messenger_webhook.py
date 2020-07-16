@@ -2,10 +2,10 @@ from pymessenger.bot import Bot
 from modifyingMessages import textDecider
 from flask import request
 
-VERIFY_TOKEN = 'COVID_CHATS'
-ACCESS_TOKEN = 'EAAMd3g3exIMBAD4cejiCObrARbzSwpq79ZCeGWtZAmW2nSj4bk8rYZCDZCWJctU0aMygZA2VQu7sqJMGn6vq4DyUbXIzFIHXgRlvQMGzEbDRylKevM2MfBRvd9yN7T5fSsSijyxWdTcIGWRLOPmva0PhS9GOZCjec3XMe2v6AbbQZDZD '
-# ACCESS_TOKEN = os.environ['ACCESS_TOKEN']
-# VERIFY_TOKEN = os.environ['VERIFY_TOKEN']
+#VERIFY_TOKEN = 'COVID_CHATS'
+#ACCESS_TOKEN = 'EAAMd3g3exIMBAD4cejiCObrARbzSwpq79ZCeGWtZAmW2nSj4bk8rYZCDZCWJctU0aMygZA2VQu7sqJMGn6vq4DyUbXIzFIHXgRlvQMGzEbDRylKevM2MfBRvd9yN7T5fSsSijyxWdTcIGWRLOPmva0PhS9GOZCjec3XMe2v6AbbQZDZD '
+ACCESS_TOKEN = os.environ['ACCESS_TOKEN']
+VERIFY_TOKEN = os.environ['VERIFY_TOKEN']
 bot = Bot(ACCESS_TOKEN)
 
 
