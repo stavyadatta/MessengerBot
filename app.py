@@ -4,9 +4,10 @@ from flask import Flask, request
 from pymessenger.bot import Bot
 from modifyingMessages import textDecider
 from flask import request
-from whatsapp import whastappFunction
+from whatsapp_webhook import whastappFunction
 import requests
 from twilio.twiml.messaging_response import MessagingResponse
+
 app = Flask(__name__)
 
 VERIFY_TOKEN = 'COVID_CHATS'
@@ -19,7 +20,6 @@ bot = Bot(ACCESS_TOKEN)
 @app.route('/whatsapp', methods=['POST'])
 def whatsApp_bot():
     return whastappFunction()
-
 
 
 @app.route('/', methods=['GET', 'POST'])
@@ -37,14 +37,13 @@ def receive_message():
                     recipient_id = message['sender']['id']
                     if message['message'].get('text'):
                         response_sent_text = textDecider(message['message'].get('text'))
-                        #response_sent_text = length_of_text_consideration(response_sent_text)
+                        # response_sent_text = length_of_text_consideration(response_sent_text)
                         send_message(recipient_id, response_sent_text)
                         # in case of gif or text
                         if message['message'].get('attachments'):
                             response_non_text = textDecider()
                             send_message(recipient_id, response_non_text)
         return "Message Processed"
-
 
 
 def verify_token(token_sent):
