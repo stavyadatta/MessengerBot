@@ -1,5 +1,5 @@
 from twilio.twiml.messaging_response import MessagingResponse
-from flask import Flask, request
+from flask import request
 from modifyingMessages import textDecider
 
 
