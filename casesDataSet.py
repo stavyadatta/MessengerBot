@@ -1,7 +1,7 @@
 import requests, json
-import modifyingMessages
 import traceback
 from binary_search import binary_search
+
 
 def numberOfCasesInCountry(Country):
     url_summary = "https://api.covid19api.com/summary"
@@ -23,7 +23,7 @@ def numberOfCasesInCountry(Country):
 
     except TypeError:
         traceback.print_exc()
-        return modifyingMessages.alternate_text
+        return 'blhjk'
 
 
 def changeJson(parameter, json_data_summary, cindex):

@@ -1,4 +1,5 @@
 from binary_search import binary_search
+from testingDataset import testing_data_country_wise
 import casesDataSet
 import HospitalLocation
 import pycountry
@@ -38,7 +39,8 @@ def textDecider(text):
 
 def getCases(country):
     # return selected item to the user
-    if pycountry.countries.get(name=country):
+    object_country = pycountry.countries.get(name=country)
+    if object_country:
         try:
             numberOfCases, deaths, recovered, newConfirmed, newRecovered, newDeaths \
                 = casesDataSet.numberOfCasesInCountry(country)
@@ -46,10 +48,16 @@ def getCases(country):
             return "Too many values"
     else:
         return False
+    testing_list = testing_data_country_wise(object_country.alpha_3, country)
     random_message = 'Stats for {} are\nCases: {}\nDeaths: {}\nRecovered: {}' \
                      '\nNew Confirmed: {}\nNew Recovered: {}\nNew Deaths: {}\n'.format(country, numberOfCases, deaths
                                                                                        , recovered, newConfirmed,
                                                                                        newRecovered, newDeaths)
+    print(str(testing_list) + " this is printed")
+    for testing_stat in testing_list:
+        message = f"{testing_stat[0]} are\nCumulative tests: {testing_stat[1]}\n" \
+                  f"Daily Count of test: {testing_stat[2]}\n"
+        random_message += message
     return random_message
 
 
@@ -187,5 +195,5 @@ def findingTwoWordedStates(list_of_words):
         i = i + 1
     return list_of_words
 
-x = getCities('Faridabad')
+x = getCases('India')
 print(x)
