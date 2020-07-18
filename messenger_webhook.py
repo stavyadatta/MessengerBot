@@ -1,3 +1,4 @@
+import os
 from pymessenger.bot import Bot
 from modifyingMessages import textDecider
 from flask import request
